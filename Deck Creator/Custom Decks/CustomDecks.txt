@@ -1,0 +1,4802 @@
+{
+   {
+   ["descLine3"] =     "",
+   ["descLine4"] =     "",
+   ["descLine1"] =     "milmax BRICK",
+   ["discovered"] =     true,
+   ["descLine2"] =     "",
+   ["loc_txt"] =     {
+     ["name_parsed"] =       {
+               {
+                   {
+           ["strings"] =             {
+                           "brick"
+            },
+           ["control"] =             {
+
+            }
+          }
+        }
+      },
+     ["text_parsed"] =       {
+               {
+                   {
+           ["strings"] =             {
+                           "milmax BRICK"
+            },
+           ["control"] =             {
+
+            }
+          }
+        }
+      },
+     ["name"] =       "brick",
+     ["text"] =       {
+               "milmax BRICK"
+      }
+    },
+   ["unlocked"] =     true,
+   ["slug"] =     "b_brick_ff86d6c7-6e17-4934-9639-92e2b4ee24f2",
+   ["spritePos"] =     {
+     ["y"] =       0,
+     ["x"] =       5
+    },
+   ["name"] =     "brick",
+   ["config"] =     {
+     ["bannedTagList"] =       {
+
+      },
+     ["booster_pack_slots"] =       2,
+     ["reroll_cost"] =       5,
+     ["stones_are_faces"] =       false,
+     ["spectral_cards_in_arcana"] =       false,
+     ["destroy_random_joker_after_ante_four"] =       0,
+     ["sevens_are_faces"] =       false,
+     ["dollars"] =       1,
+     ["discards"] =       0,
+     ["all_eternal"] =       false,
+     ["shop_slots"] =       2,
+     ["no_spectral_destroy_cards"] =       false,
+     ["meteor_tag_percent"] =       0,
+     ["chance_for_negative_joker_on_skip_disable"] =       0,
+     ["coupon_tag_percent"] =       0,
+     ["chance_to_double_gold_seal"] =       0,
+     ["tarot_cards_in_spectral"] =       false,
+     ["ectoplasm_cannot_change_hand_size"] =       false,
+     ["all_steel"] =       false,
+     ["bannedVoucherList"] =       {
+
+      },
+     ["enable_perishables_in_shop"] =       false,
+     ["booster_ante_scaling"] =       0,
+     ["chance_for_random_negative_joker_on_shop_skip"] =       0,
+     ["customTarotList"] =       {
+
+      },
+     ["voucher_slots"] =       1,
+     ["gain_ten_dollars_glass_break_chance"] =       0,
+     ["replace_broken_glass_with_stones_chance"] =       0,
+     ["randomize_rank_suit"] =       false,
+     ["chance_for_negative_joker_on_blue_seal_trigger"] =       0,
+     ["customCardList"] =       {
+       ["S_K_35"] =         {
+         ["suit"] =           "Spades",
+         ["enhancementKey"] =           "m_stone",
+         ["editionKey"] =           "polychrome",
+         ["uuid"] =           "5a95e494-3c2c-4cb1-9158-6831c8ea7744",
+         ["pos"] =           {
+           ["y"] =             1,
+           ["x"] =             0
+          },
+         ["key"] =           "S_K_35",
+         ["value"] =           "K",
+         ["seal"] =           "Gold",
+         ["enhancement"] =           "Stone",
+         ["name"] =           "K of Spades",
+         ["edition"] =           "Polychrome"
+        },
+       ["S_K_16"] =         {
+         ["suit"] =           "Spades",
+         ["enhancementKey"] =           "m_stone",
+         ["editionKey"] =           "polychrome",
+         ["uuid"] =           "11883649-9e42-4702-9fe3-2de02081f21a",
+         ["pos"] =           {
+           ["y"] =             1,
+           ["x"] =             0
+          },
+         ["key"] =           "S_K_16",
+         ["value"] =           "K",
+         ["seal"] =           "Gold",
+         ["enhancement"] =           "Stone",
+         ["name"] =           "K of Spades",
+         ["edition"] =           "Polychrome"
+        },
+       ["S_K_32"] =         {
+         ["suit"] =           "Spades",
+         ["enhancementKey"] =           "m_stone",
+         ["editionKey"] =           "polychrome",
+         ["uuid"] =           "eb7c83ff-a645-4100-8a57-9535454517e5",
+         ["pos"] =           {
+           ["y"] =             1,
+           ["x"] =             0
+          },
+         ["key"] =           "S_K_32",
+         ["value"] =           "K",
+         ["seal"] =           "Gold",
+         ["enhancement"] =           "Stone",
+         ["name"] =           "K of Spades",
+         ["edition"] =           "Polychrome"
+        },
+       ["S_K_5"] =         {
+         ["suit"] =           "Spades",
+         ["enhancementKey"] =           "m_stone",
+         ["editionKey"] =           "polychrome",
+         ["uuid"] =           "73b70b5c-dd09-4ada-adfd-c12948f96eaf",
+         ["pos"] =           {
+           ["y"] =             1,
+           ["x"] =             0
+          },
+         ["key"] =           "S_K_5",
+         ["value"] =           "K",
+         ["seal"] =           "Gold",
+         ["enhancement"] =           "Stone",
+         ["name"] =           "K of Spades",
+         ["edition"] =           "Polychrome"
+        },
+       ["S_K_2"] =         {
+         ["suit"] =           "Spades",
+         ["enhancementKey"] =           "m_stone",
+         ["editionKey"] =           "polychrome",
+         ["uuid"] =           "e06db537-6673-4416-a290-90a097eac286",
+         ["pos"] =           {
+           ["y"] =             1,
+           ["x"] =             0
+          },
+         ["key"] =           "S_K_2",
+         ["value"] =           "K",
+         ["seal"] =           "Gold",
+         ["enhancement"] =           "Stone",
+         ["name"] =           "K of Spades",
+         ["edition"] =           "Polychrome"
+        },
+       ["S_K_34"] =         {
+         ["suit"] =           "Spades",
+         ["enhancementKey"] =           "m_stone",
+         ["editionKey"] =           "polychrome",
+         ["uuid"] =           "c69bced4-fa4d-472c-8811-b0307bb27e37",
+         ["pos"] =           {
+           ["y"] =             1,
+           ["x"] =             0
+          },
+         ["key"] =           "S_K_34",
+         ["value"] =           "K",
+         ["seal"] =           "Gold",
+         ["enhancement"] =           "Stone",
+         ["name"] =           "K of Spades",
+         ["edition"] =           "Polychrome"
+        },
+       ["S_K_46"] =         {
+         ["suit"] =           "Spades",
+         ["enhancementKey"] =           "m_stone",
+         ["editionKey"] =           "polychrome",
+         ["uuid"] =           "bd4653eb-ce8d-4acd-aa63-2c86a4f1779f",
+         ["pos"] =           {
+           ["y"] =             1,
+           ["x"] =             0
+          },
+         ["key"] =           "S_K_46",
+         ["value"] =           "K",
+         ["seal"] =           "Gold",
+         ["enhancement"] =           "Stone",
+         ["name"] =           "K of Spades",
+         ["edition"] =           "Polychrome"
+        },
+       ["S_K_26"] =         {
+         ["suit"] =           "Spades",
+         ["enhancementKey"] =           "m_stone",
+         ["editionKey"] =           "polychrome",
+         ["uuid"] =           "afb22833-72e4-424f-a1c4-32c27a9b4fb2",
+         ["pos"] =           {
+           ["y"] =             1,
+           ["x"] =             0
+          },
+         ["key"] =           "S_K_26",
+         ["value"] =           "K",
+         ["seal"] =           "Gold",
+         ["enhancement"] =           "Stone",
+         ["name"] =           "K of Spades",
+         ["edition"] =           "Polychrome"
+        },
+       ["S_K_28"] =         {
+         ["suit"] =           "Spades",
+         ["enhancementKey"] =           "m_stone",
+         ["editionKey"] =           "polychrome",
+         ["uuid"] =           "b6461127-190d-40a9-992a-6a23c290dc9b",
+         ["pos"] =           {
+           ["y"] =             1,
+           ["x"] =             0
+          },
+         ["key"] =           "S_K_28",
+         ["value"] =           "K",
+         ["seal"] =           "Gold",
+         ["enhancement"] =           "Stone",
+         ["name"] =           "K of Spades",
+         ["edition"] =           "Polychrome"
+        },
+       ["S_K_15"] =         {
+         ["suit"] =           "Spades",
+         ["enhancementKey"] =           "m_stone",
+         ["editionKey"] =           "polychrome",
+         ["uuid"] =           "61945570-01dd-48ac-89ce-c947a8966dd0",
+         ["pos"] =           {
+           ["y"] =             1,
+           ["x"] =             0
+          },
+         ["key"] =           "S_K_15",
+         ["value"] =           "K",
+         ["seal"] =           "Gold",
+         ["enhancement"] =           "Stone",
+         ["name"] =           "K of Spades",
+         ["edition"] =           "Polychrome"
+        },
+       ["S_K_27"] =         {
+         ["suit"] =           "Spades",
+         ["enhancementKey"] =           "m_stone",
+         ["editionKey"] =           "polychrome",
+         ["uuid"] =           "284d89f6-18ec-4ac7-886b-50cd1b49275e",
+         ["pos"] =           {
+           ["y"] =             1,
+           ["x"] =             0
+          },
+         ["key"] =           "S_K_27",
+         ["value"] =           "K",
+         ["seal"] =           "Gold",
+         ["enhancement"] =           "Stone",
+         ["name"] =           "K of Spades",
+         ["edition"] =           "Polychrome"
+        },
+       ["S_K_29"] =         {
+         ["suit"] =           "Spades",
+         ["enhancementKey"] =           "m_stone",
+         ["editionKey"] =           "polychrome",
+         ["uuid"] =           "2fd87b79-3ebf-4f7d-82f7-a3fed31f732f",
+         ["pos"] =           {
+           ["y"] =             1,
+           ["x"] =             0
+          },
+         ["key"] =           "S_K_29",
+         ["value"] =           "K",
+         ["seal"] =           "Gold",
+         ["enhancement"] =           "Stone",
+         ["name"] =           "K of Spades",
+         ["edition"] =           "Polychrome"
+        },
+       ["S_K_14"] =         {
+         ["suit"] =           "Spades",
+         ["enhancementKey"] =           "m_stone",
+         ["editionKey"] =           "polychrome",
+         ["uuid"] =           "6a87916c-4197-4d5f-b2c5-ca1152f771c8",
+         ["pos"] =           {
+           ["y"] =             1,
+           ["x"] =             0
+          },
+         ["key"] =           "S_K_14",
+         ["value"] =           "K",
+         ["seal"] =           "Gold",
+         ["enhancement"] =           "Stone",
+         ["name"] =           "K of Spades",
+         ["edition"] =           "Polychrome"
+        },
+       ["S_K_39"] =         {
+         ["suit"] =           "Spades",
+         ["enhancementKey"] =           "m_stone",
+         ["editionKey"] =           "polychrome",
+         ["uuid"] =           "4b47478a-99ea-4528-b273-64f08eb1d3cb",
+         ["pos"] =           {
+           ["y"] =             1,
+           ["x"] =             0
+          },
+         ["key"] =           "S_K_39",
+         ["value"] =           "K",
+         ["seal"] =           "Gold",
+         ["enhancement"] =           "Stone",
+         ["name"] =           "K of Spades",
+         ["edition"] =           "Polychrome"
+        },
+       ["S_K_36"] =         {
+         ["suit"] =           "Spades",
+         ["enhancementKey"] =           "m_stone",
+         ["editionKey"] =           "polychrome",
+         ["uuid"] =           "cb2899b7-3400-443a-9283-38c9dfc496ad",
+         ["pos"] =           {
+           ["y"] =             1,
+           ["x"] =             0
+          },
+         ["key"] =           "S_K_36",
+         ["value"] =           "K",
+         ["seal"] =           "Gold",
+         ["enhancement"] =           "Stone",
+         ["name"] =           "K of Spades",
+         ["edition"] =           "Polychrome"
+        },
+       ["S_K_1"] =         {
+         ["suit"] =           "Spades",
+         ["enhancementKey"] =           "m_stone",
+         ["editionKey"] =           "polychrome",
+         ["uuid"] =           "ba087dc0-bc0f-423f-a059-06c04690f0eb",
+         ["pos"] =           {
+           ["y"] =             1,
+           ["x"] =             0
+          },
+         ["key"] =           "S_K_1",
+         ["value"] =           "K",
+         ["seal"] =           "Gold",
+         ["enhancement"] =           "Stone",
+         ["name"] =           "K of Spades",
+         ["edition"] =           "Polychrome"
+        },
+       ["S_K_44"] =         {
+         ["suit"] =           "Spades",
+         ["enhancementKey"] =           "m_stone",
+         ["editionKey"] =           "polychrome",
+         ["uuid"] =           "7473b49a-dcb6-465f-90d4-abed6f6980da",
+         ["pos"] =           {
+           ["y"] =             1,
+           ["x"] =             0
+          },
+         ["key"] =           "S_K_44",
+         ["value"] =           "K",
+         ["seal"] =           "Gold",
+         ["enhancement"] =           "Stone",
+         ["name"] =           "K of Spades",
+         ["edition"] =           "Polychrome"
+        },
+       ["S_K_51"] =         {
+         ["suit"] =           "Spades",
+         ["enhancementKey"] =           "m_stone",
+         ["editionKey"] =           "polychrome",
+         ["uuid"] =           "3515c127-0953-4313-8c0a-b0b831661eed",
+         ["pos"] =           {
+           ["y"] =             1,
+           ["x"] =             0
+          },
+         ["key"] =           "S_K_51",
+         ["value"] =           "K",
+         ["seal"] =           "Gold",
+         ["enhancement"] =           "Stone",
+         ["name"] =           "K of Spades",
+         ["edition"] =           "Polychrome"
+        },
+       ["S_K_38"] =         {
+         ["suit"] =           "Spades",
+         ["enhancementKey"] =           "m_stone",
+         ["editionKey"] =           "polychrome",
+         ["uuid"] =           "ca226bba-4881-4f67-9303-f3b7425c08ab",
+         ["pos"] =           {
+           ["y"] =             1,
+           ["x"] =             0
+          },
+         ["key"] =           "S_K_38",
+         ["value"] =           "K",
+         ["seal"] =           "Gold",
+         ["enhancement"] =           "Stone",
+         ["name"] =           "K of Spades",
+         ["edition"] =           "Polychrome"
+        },
+       ["S_K_20"] =         {
+         ["suit"] =           "Spades",
+         ["enhancementKey"] =           "m_stone",
+         ["editionKey"] =           "polychrome",
+         ["uuid"] =           "dd694f89-6c2d-4538-bb1a-a36beeeb42e3",
+         ["pos"] =           {
+           ["y"] =             1,
+           ["x"] =             0
+          },
+         ["key"] =           "S_K_20",
+         ["value"] =           "K",
+         ["seal"] =           "Gold",
+         ["enhancement"] =           "Stone",
+         ["name"] =           "K of Spades",
+         ["edition"] =           "Polychrome"
+        },
+       ["S_K_42"] =         {
+         ["suit"] =           "Spades",
+         ["enhancementKey"] =           "m_stone",
+         ["editionKey"] =           "polychrome",
+         ["uuid"] =           "9ea7122e-e3c7-4b67-9e97-2878a07716a3",
+         ["pos"] =           {
+           ["y"] =             1,
+           ["x"] =             0
+          },
+         ["key"] =           "S_K_42",
+         ["value"] =           "K",
+         ["seal"] =           "Gold",
+         ["enhancement"] =           "Stone",
+         ["name"] =           "K of Spades",
+         ["edition"] =           "Polychrome"
+        },
+       ["S_K_8"] =         {
+         ["suit"] =           "Spades",
+         ["enhancementKey"] =           "m_stone",
+         ["editionKey"] =           "polychrome",
+         ["uuid"] =           "9e393a4a-38d8-4ae2-ae3f-175d86bab500",
+         ["pos"] =           {
+           ["y"] =             1,
+           ["x"] =             0
+          },
+         ["key"] =           "S_K_8",
+         ["value"] =           "K",
+         ["seal"] =           "Gold",
+         ["enhancement"] =           "Stone",
+         ["name"] =           "K of Spades",
+         ["edition"] =           "Polychrome"
+        },
+       ["S_K"] =         {
+         ["suit"] =           "Spades",
+         ["enhancementKey"] =           "m_stone",
+         ["editionKey"] =           "polychrome",
+         ["uuid"] =           "39ab4c58-f986-4c00-8b96-5d2f55138f4f",
+         ["pos"] =           {
+           ["y"] =             1,
+           ["x"] =             0
+          },
+         ["key"] =           "S_K",
+         ["value"] =           "K",
+         ["seal"] =           "Gold",
+         ["enhancement"] =           "Stone",
+         ["name"] =           "K of Spades",
+         ["edition"] =           "Polychrome"
+        },
+       ["S_K_13"] =         {
+         ["suit"] =           "Spades",
+         ["enhancementKey"] =           "m_stone",
+         ["editionKey"] =           "polychrome",
+         ["uuid"] =           "400adde1-1449-4df3-9852-9692d0d98696",
+         ["pos"] =           {
+           ["y"] =             1,
+           ["x"] =             0
+          },
+         ["key"] =           "S_K_13",
+         ["value"] =           "K",
+         ["seal"] =           "Gold",
+         ["enhancement"] =           "Stone",
+         ["name"] =           "K of Spades",
+         ["edition"] =           "Polychrome"
+        },
+       ["S_K_50"] =         {
+         ["suit"] =           "Spades",
+         ["enhancementKey"] =           "m_stone",
+         ["editionKey"] =           "polychrome",
+         ["uuid"] =           "7547e6df-1bf8-4d24-8b39-41e77632ce85",
+         ["pos"] =           {
+           ["y"] =             1,
+           ["x"] =             0
+          },
+         ["key"] =           "S_K_50",
+         ["value"] =           "K",
+         ["seal"] =           "Gold",
+         ["enhancement"] =           "Stone",
+         ["name"] =           "K of Spades",
+         ["edition"] =           "Polychrome"
+        },
+       ["S_K_21"] =         {
+         ["suit"] =           "Spades",
+         ["enhancementKey"] =           "m_stone",
+         ["editionKey"] =           "polychrome",
+         ["uuid"] =           "7336251a-cf7d-425c-8766-522b0d3c23c3",
+         ["pos"] =           {
+           ["y"] =             1,
+           ["x"] =             0
+          },
+         ["key"] =           "S_K_21",
+         ["value"] =           "K",
+         ["seal"] =           "Gold",
+         ["enhancement"] =           "Stone",
+         ["name"] =           "K of Spades",
+         ["edition"] =           "Polychrome"
+        },
+       ["S_K_43"] =         {
+         ["suit"] =           "Spades",
+         ["enhancementKey"] =           "m_stone",
+         ["editionKey"] =           "polychrome",
+         ["uuid"] =           "d3212c66-f533-4559-8294-5766e94d271f",
+         ["pos"] =           {
+           ["y"] =             1,
+           ["x"] =             0
+          },
+         ["key"] =           "S_K_43",
+         ["value"] =           "K",
+         ["seal"] =           "Gold",
+         ["enhancement"] =           "Stone",
+         ["name"] =           "K of Spades",
+         ["edition"] =           "Polychrome"
+        },
+       ["S_K_19"] =         {
+         ["suit"] =           "Spades",
+         ["enhancementKey"] =           "m_stone",
+         ["editionKey"] =           "polychrome",
+         ["uuid"] =           "118250c8-28d6-4f64-8f9a-8e2d016a5f81",
+         ["pos"] =           {
+           ["y"] =             1,
+           ["x"] =             0
+          },
+         ["key"] =           "S_K_19",
+         ["value"] =           "K",
+         ["seal"] =           "Gold",
+         ["enhancement"] =           "Stone",
+         ["name"] =           "K of Spades",
+         ["edition"] =           "Polychrome"
+        },
+       ["S_K_31"] =         {
+         ["suit"] =           "Spades",
+         ["enhancementKey"] =           "m_stone",
+         ["editionKey"] =           "polychrome",
+         ["uuid"] =           "698c8c1f-6562-41aa-9bfc-4190dcff5fe1",
+         ["pos"] =           {
+           ["y"] =             1,
+           ["x"] =             0
+          },
+         ["key"] =           "S_K_31",
+         ["value"] =           "K",
+         ["seal"] =           "Gold",
+         ["enhancement"] =           "Stone",
+         ["name"] =           "K of Spades",
+         ["edition"] =           "Polychrome"
+        },
+       ["S_K_12"] =         {
+         ["suit"] =           "Spades",
+         ["enhancementKey"] =           "m_stone",
+         ["editionKey"] =           "polychrome",
+         ["uuid"] =           "9eddc38c-1667-407c-a20e-e200db92d4b6",
+         ["pos"] =           {
+           ["y"] =             1,
+           ["x"] =             0
+          },
+         ["key"] =           "S_K_12",
+         ["value"] =           "K",
+         ["seal"] =           "Gold",
+         ["enhancement"] =           "Stone",
+         ["name"] =           "K of Spades",
+         ["edition"] =           "Polychrome"
+        },
+       ["S_K_49"] =         {
+         ["suit"] =           "Spades",
+         ["enhancementKey"] =           "m_stone",
+         ["editionKey"] =           "polychrome",
+         ["uuid"] =           "648ef774-7a76-43a7-bbed-587b9c2c4628",
+         ["pos"] =           {
+           ["y"] =             1,
+           ["x"] =             0
+          },
+         ["key"] =           "S_K_49",
+         ["value"] =           "K",
+         ["seal"] =           "Gold",
+         ["enhancement"] =           "Stone",
+         ["name"] =           "K of Spades",
+         ["edition"] =           "Polychrome"
+        },
+       ["S_K_9"] =         {
+         ["suit"] =           "Spades",
+         ["enhancementKey"] =           "m_stone",
+         ["editionKey"] =           "polychrome",
+         ["uuid"] =           "62ac4ac4-d9af-4d45-aae1-1a31ad7a0862",
+         ["pos"] =           {
+           ["y"] =             1,
+           ["x"] =             0
+          },
+         ["key"] =           "S_K_9",
+         ["value"] =           "K",
+         ["seal"] =           "Gold",
+         ["enhancement"] =           "Stone",
+         ["name"] =           "K of Spades",
+         ["edition"] =           "Polychrome"
+        },
+       ["S_K_48"] =         {
+         ["suit"] =           "Spades",
+         ["enhancementKey"] =           "m_stone",
+         ["editionKey"] =           "polychrome",
+         ["uuid"] =           "81d5e052-1716-41e9-808f-1663e6420aa7",
+         ["pos"] =           {
+           ["y"] =             1,
+           ["x"] =             0
+          },
+         ["key"] =           "S_K_48",
+         ["value"] =           "K",
+         ["seal"] =           "Gold",
+         ["enhancement"] =           "Stone",
+         ["name"] =           "K of Spades",
+         ["edition"] =           "Polychrome"
+        },
+       ["S_K_6"] =         {
+         ["suit"] =           "Spades",
+         ["enhancementKey"] =           "m_stone",
+         ["editionKey"] =           "polychrome",
+         ["uuid"] =           "d9faeb43-25a8-420c-bd8e-6a5ba9764c0e",
+         ["pos"] =           {
+           ["y"] =             1,
+           ["x"] =             0
+          },
+         ["key"] =           "S_K_6",
+         ["value"] =           "K",
+         ["seal"] =           "Gold",
+         ["enhancement"] =           "Stone",
+         ["name"] =           "K of Spades",
+         ["edition"] =           "Polychrome"
+        },
+       ["S_K_30"] =         {
+         ["suit"] =           "Spades",
+         ["enhancementKey"] =           "m_stone",
+         ["editionKey"] =           "polychrome",
+         ["uuid"] =           "dc48e01b-0125-4b8b-a954-b4656c537fb6",
+         ["pos"] =           {
+           ["y"] =             1,
+           ["x"] =             0
+          },
+         ["key"] =           "S_K_30",
+         ["value"] =           "K",
+         ["seal"] =           "Gold",
+         ["enhancement"] =           "Stone",
+         ["name"] =           "K of Spades",
+         ["edition"] =           "Polychrome"
+        },
+       ["S_K_47"] =         {
+         ["suit"] =           "Spades",
+         ["enhancementKey"] =           "m_stone",
+         ["editionKey"] =           "polychrome",
+         ["uuid"] =           "5b589809-f6ea-49c1-acc8-fa844d23038f",
+         ["pos"] =           {
+           ["y"] =             1,
+           ["x"] =             0
+          },
+         ["key"] =           "S_K_47",
+         ["value"] =           "K",
+         ["seal"] =           "Gold",
+         ["enhancement"] =           "Stone",
+         ["name"] =           "K of Spades",
+         ["edition"] =           "Polychrome"
+        },
+       ["S_K_45"] =         {
+         ["suit"] =           "Spades",
+         ["enhancementKey"] =           "m_stone",
+         ["editionKey"] =           "polychrome",
+         ["uuid"] =           "7869f329-e4e1-48cf-a266-c99503d5337d",
+         ["pos"] =           {
+           ["y"] =             1,
+           ["x"] =             0
+          },
+         ["key"] =           "S_K_45",
+         ["value"] =           "K",
+         ["seal"] =           "Gold",
+         ["enhancement"] =           "Stone",
+         ["name"] =           "K of Spades",
+         ["edition"] =           "Polychrome"
+        },
+       ["S_K_3"] =         {
+         ["suit"] =           "Spades",
+         ["enhancementKey"] =           "m_stone",
+         ["editionKey"] =           "polychrome",
+         ["uuid"] =           "30bf197d-4bdb-4c2a-81e9-4564a58389cb",
+         ["pos"] =           {
+           ["y"] =             1,
+           ["x"] =             0
+          },
+         ["key"] =           "S_K_3",
+         ["value"] =           "K",
+         ["seal"] =           "Gold",
+         ["enhancement"] =           "Stone",
+         ["name"] =           "K of Spades",
+         ["edition"] =           "Polychrome"
+        },
+       ["S_K_37"] =         {
+         ["suit"] =           "Spades",
+         ["enhancementKey"] =           "m_stone",
+         ["editionKey"] =           "polychrome",
+         ["uuid"] =           "da8a883b-2aa7-42cf-acf6-d40a9b9f1ce4",
+         ["pos"] =           {
+           ["y"] =             1,
+           ["x"] =             0
+          },
+         ["key"] =           "S_K_37",
+         ["value"] =           "K",
+         ["seal"] =           "Gold",
+         ["enhancement"] =           "Stone",
+         ["name"] =           "K of Spades",
+         ["edition"] =           "Polychrome"
+        },
+       ["S_K_22"] =         {
+         ["suit"] =           "Spades",
+         ["enhancementKey"] =           "m_stone",
+         ["editionKey"] =           "polychrome",
+         ["uuid"] =           "3ac90ad7-0fb0-4f3e-a25c-ffbdf20de0d8",
+         ["pos"] =           {
+           ["y"] =             1,
+           ["x"] =             0
+          },
+         ["key"] =           "S_K_22",
+         ["value"] =           "K",
+         ["seal"] =           "Gold",
+         ["enhancement"] =           "Stone",
+         ["name"] =           "K of Spades",
+         ["edition"] =           "Polychrome"
+        },
+       ["S_K_40"] =         {
+         ["suit"] =           "Spades",
+         ["enhancementKey"] =           "m_stone",
+         ["editionKey"] =           "polychrome",
+         ["uuid"] =           "91ea1e3a-08a1-48cf-a75b-684eae46ac50",
+         ["pos"] =           {
+           ["y"] =             1,
+           ["x"] =             0
+          },
+         ["key"] =           "S_K_40",
+         ["value"] =           "K",
+         ["seal"] =           "Gold",
+         ["enhancement"] =           "Stone",
+         ["name"] =           "K of Spades",
+         ["edition"] =           "Polychrome"
+        },
+       ["S_K_4"] =         {
+         ["suit"] =           "Spades",
+         ["enhancementKey"] =           "m_stone",
+         ["editionKey"] =           "polychrome",
+         ["uuid"] =           "00ef2228-0e7e-40b1-8212-506af3b8a37a",
+         ["pos"] =           {
+           ["y"] =             1,
+           ["x"] =             0
+          },
+         ["key"] =           "S_K_4",
+         ["value"] =           "K",
+         ["seal"] =           "Gold",
+         ["enhancement"] =           "Stone",
+         ["name"] =           "K of Spades",
+         ["edition"] =           "Polychrome"
+        },
+       ["S_K_11"] =         {
+         ["suit"] =           "Spades",
+         ["enhancementKey"] =           "m_stone",
+         ["editionKey"] =           "polychrome",
+         ["uuid"] =           "783522cf-c67f-4052-a79a-964f093e5ed0",
+         ["pos"] =           {
+           ["y"] =             1,
+           ["x"] =             0
+          },
+         ["key"] =           "S_K_11",
+         ["value"] =           "K",
+         ["seal"] =           "Gold",
+         ["enhancement"] =           "Stone",
+         ["name"] =           "K of Spades",
+         ["edition"] =           "Polychrome"
+        },
+       ["S_K_24"] =         {
+         ["suit"] =           "Spades",
+         ["enhancementKey"] =           "m_stone",
+         ["editionKey"] =           "polychrome",
+         ["uuid"] =           "c1862c9c-22d4-4e4f-972d-a6de0c0718a6",
+         ["pos"] =           {
+           ["y"] =             1,
+           ["x"] =             0
+          },
+         ["key"] =           "S_K_24",
+         ["value"] =           "K",
+         ["seal"] =           "Gold",
+         ["enhancement"] =           "Stone",
+         ["name"] =           "K of Spades",
+         ["edition"] =           "Polychrome"
+        },
+       ["S_K_10"] =         {
+         ["suit"] =           "Spades",
+         ["enhancementKey"] =           "m_stone",
+         ["editionKey"] =           "polychrome",
+         ["uuid"] =           "fe7d0aa5-1539-479e-acc5-4c9c8ad02c75",
+         ["pos"] =           {
+           ["y"] =             1,
+           ["x"] =             0
+          },
+         ["key"] =           "S_K_10",
+         ["value"] =           "K",
+         ["seal"] =           "Gold",
+         ["enhancement"] =           "Stone",
+         ["name"] =           "K of Spades",
+         ["edition"] =           "Polychrome"
+        },
+       ["S_K_23"] =         {
+         ["suit"] =           "Spades",
+         ["enhancementKey"] =           "m_stone",
+         ["editionKey"] =           "polychrome",
+         ["uuid"] =           "5e55387b-09a5-4c57-9a0a-bf4be744c9bd",
+         ["pos"] =           {
+           ["y"] =             1,
+           ["x"] =             0
+          },
+         ["key"] =           "S_K_23",
+         ["value"] =           "K",
+         ["seal"] =           "Gold",
+         ["enhancement"] =           "Stone",
+         ["name"] =           "K of Spades",
+         ["edition"] =           "Polychrome"
+        },
+       ["S_K_41"] =         {
+         ["suit"] =           "Spades",
+         ["enhancementKey"] =           "m_stone",
+         ["editionKey"] =           "polychrome",
+         ["uuid"] =           "ebdf4125-7aa7-42be-85b3-a653f49f3375",
+         ["pos"] =           {
+           ["y"] =             1,
+           ["x"] =             0
+          },
+         ["key"] =           "S_K_41",
+         ["value"] =           "K",
+         ["seal"] =           "Gold",
+         ["enhancement"] =           "Stone",
+         ["name"] =           "K of Spades",
+         ["edition"] =           "Polychrome"
+        },
+       ["S_K_17"] =         {
+         ["suit"] =           "Spades",
+         ["enhancementKey"] =           "m_stone",
+         ["editionKey"] =           "polychrome",
+         ["uuid"] =           "37e0f3f5-47b4-4f22-9ad4-5d3785d9bdc4",
+         ["pos"] =           {
+           ["y"] =             1,
+           ["x"] =             0
+          },
+         ["key"] =           "S_K_17",
+         ["value"] =           "K",
+         ["seal"] =           "Gold",
+         ["enhancement"] =           "Stone",
+         ["name"] =           "K of Spades",
+         ["edition"] =           "Polychrome"
+        },
+       ["S_K_33"] =         {
+         ["suit"] =           "Spades",
+         ["enhancementKey"] =           "m_stone",
+         ["editionKey"] =           "polychrome",
+         ["uuid"] =           "1e250cd7-6e86-4bf3-920c-c8691249cf4e",
+         ["pos"] =           {
+           ["y"] =             1,
+           ["x"] =             0
+          },
+         ["key"] =           "S_K_33",
+         ["value"] =           "K",
+         ["seal"] =           "Gold",
+         ["enhancement"] =           "Stone",
+         ["name"] =           "K of Spades",
+         ["edition"] =           "Polychrome"
+        },
+       ["S_K_25"] =         {
+         ["suit"] =           "Spades",
+         ["enhancementKey"] =           "m_stone",
+         ["editionKey"] =           "polychrome",
+         ["uuid"] =           "de9b7d02-a223-4d74-9903-0573892f1415",
+         ["pos"] =           {
+           ["y"] =             1,
+           ["x"] =             0
+          },
+         ["key"] =           "S_K_25",
+         ["value"] =           "K",
+         ["seal"] =           "Gold",
+         ["enhancement"] =           "Stone",
+         ["name"] =           "K of Spades",
+         ["edition"] =           "Polychrome"
+        },
+       ["S_K_7"] =         {
+         ["suit"] =           "Spades",
+         ["enhancementKey"] =           "m_stone",
+         ["editionKey"] =           "polychrome",
+         ["uuid"] =           "baef4bb8-4c68-4c35-9be7-2aecee5b6941",
+         ["pos"] =           {
+           ["y"] =             1,
+           ["x"] =             0
+          },
+         ["key"] =           "S_K_7",
+         ["value"] =           "K",
+         ["seal"] =           "Gold",
+         ["enhancement"] =           "Stone",
+         ["name"] =           "K of Spades",
+         ["edition"] =           "Polychrome"
+        },
+       ["S_K_18"] =         {
+         ["suit"] =           "Spades",
+         ["enhancementKey"] =           "m_stone",
+         ["editionKey"] =           "polychrome",
+         ["uuid"] =           "16807443-abc9-4a72-b48a-f3a6a0d3c0dc",
+         ["pos"] =           {
+           ["y"] =             1,
+           ["x"] =             0
+          },
+         ["key"] =           "S_K_18",
+         ["value"] =           "K",
+         ["seal"] =           "Gold",
+         ["enhancement"] =           "Stone",
+         ["name"] =           "K of Spades",
+         ["edition"] =           "Polychrome"
+        }
+      },
+     ["chance_to_disable_gold_money"] =       0,
+     ["eternal_rate"] =       30,
+     ["double_tag"] =       false,
+     ["ante_scaling"] =       1,
+     ["allow_black_hole"] =       false,
+     ["chance_purple_seal_rolls_spectral"] =       0,
+     ["planet_cards_in_spectral"] =       false,
+     ["edition_rate"] =       1,
+     ["random_polychrome_cards"] =       0,
+     ["never_telescoping"] =       false,
+     ["centerPosition"] =       16,
+     ["extra_hand_bonus"] =       2,
+     ["boss_tag_percent"] =       0,
+     ["rental_rate"] =       30,
+     ["allow_duplicate_jokers"] =       false,
+     ["one_free_booster_in_shop"] =       false,
+     ["randomize_suits"] =       false,
+     ["rawDescription"] =       "milmax BRICK",
+     ["random_starting_jokers"] =       0,
+     ["edition"] =       false,
+     ["extra_discard_bonus"] =       1,
+     ["skip_blind_disabled_chance_small_blind"] =       0,
+     ["tag_on_win_config"] =       {
+       ["mega_standard_tag_percent"] =         {
+         ["key"] =           "tag_standard",
+         ["chance"] =           0
+        },
+       ["voucher_tag_percent"] =         {
+         ["key"] =           "tag_voucher",
+         ["chance"] =           0
+        },
+       ["economy_tag_percent"] =         {
+         ["key"] =           "tag_economy",
+         ["chance"] =           0
+        },
+       ["boss_tag_percent"] =         {
+         ["key"] =           "tag_boss",
+         ["chance"] =           0
+        },
+       ["rare_tag_percent"] =         {
+         ["key"] =           "tag_rare",
+         ["chance"] =           0
+        },
+       ["double_tag_percent"] =         {
+         ["key"] =           "tag_double",
+         ["chance"] =           0
+        },
+       ["meteor_tag_percent"] =         {
+         ["key"] =           "tag_meteor",
+         ["chance"] =           0
+        },
+       ["investment_tag_percent"] =         {
+         ["key"] =           "tag_investment",
+         ["chance"] =           0
+        },
+       ["coupon_tag_percent"] =         {
+         ["key"] =           "tag_coupon",
+         ["chance"] =           0
+        },
+       ["negative_tag_percent"] =         {
+         ["key"] =           "tag_negative",
+         ["chance"] =           0
+        },
+       ["top_up_tag_percent"] =         {
+         ["key"] =           "tag_top_up",
+         ["chance"] =           0
+        },
+       ["orbital_tag_percent"] =         {
+         ["key"] =           "tag_orbital",
+         ["chance"] =           0
+        },
+       ["ethereal_tag_percent"] =         {
+         ["key"] =           "tag_ethereal",
+         ["chance"] =           0
+        },
+       ["garbage_tag_percent"] =         {
+         ["key"] =           "tag_garbage",
+         ["chance"] =           0
+        },
+       ["juggle_tag_percent"] =         {
+         ["key"] =           "tag_juggle",
+         ["chance"] =           0
+        },
+       ["d6_tag_percent"] =         {
+         ["key"] =           "tag_d_six",
+         ["chance"] =           0
+        },
+       ["foil_tag_percent"] =         {
+         ["key"] =           "tag_foil",
+         ["chance"] =           0
+        },
+       ["holographic_tag_percent"] =         {
+         ["key"] =           "tag_holo",
+         ["chance"] =           0
+        },
+       ["handy_tag_percent"] =         {
+         ["key"] =           "tag_handy",
+         ["chance"] =           0
+        },
+       ["buffoon_tag_percent"] =         {
+         ["key"] =           "tag_buffoon",
+         ["chance"] =           0
+        },
+       ["polychrome_tag_percent"] =         {
+         ["key"] =           "tag_polychrome",
+         ["chance"] =           0
+        },
+       ["uncommon_tag_percent"] =         {
+         ["key"] =           "tag_uncommon",
+         ["chance"] =           0
+        },
+       ["skip_tag_percent"] =         {
+         ["key"] =           "tag_skip",
+         ["chance"] =           0
+        },
+       ["charm_tag_percent"] =         {
+         ["key"] =           "tag_charm",
+         ["chance"] =           0
+        }
+      },
+     ["skip_blind_disabled_chance_any"] =       0,
+     ["random_gold_cards"] =       0,
+     ["spectral_seals_add_additional"] =       false,
+     ["blind_scaling"] =       1,
+     ["random_enhancement_cards"] =       0,
+     ["random_mult_cards"] =       0,
+     ["perishable_rate"] =       30,
+     ["always_telescoping"] =       false,
+     ["skip_tag_percent"] =       0,
+     ["extra_red_seal_repetitions"] =       0,
+     ["random_wild_cards"] =       0,
+     ["random_stone_cards"] =       0,
+     ["random_glass_cards"] =       0,
+     ["random_steel_cards"] =       0,
+     ["voucher_tag_percent"] =       0,
+     ["red_seal_silly_messages"] =       false,
+     ["death_targets_random_card"] =       false,
+     ["random_bonus_cards"] =       0,
+     ["random_edition_cards"] =       0,
+     ["random_foil_cards"] =       0,
+     ["chance_for_twenty_dollars_on_shop_skip"] =       0,
+     ["bannedBlindList"] =       {
+
+      },
+     ["random_holographic_cards"] =       0,
+     ["random_sell_value_increase"] =       0,
+     ["chance_to_increase_drawn_cards_rank"] =       0,
+     ["gain_dollars_when_skip_booster"] =       0,
+     ["chance_to_increase_discard_cards_rank"] =       0,
+     ["destroy_joker_on_broken_glass"] =       0,
+     ["mult_reduction_percent"] =       0,
+     ["chip_reduction_percent"] =       0,
+     ["full_price_consumables"] =       false,
+     ["extra_buffoon_pack_cards"] =       0,
+     ["chance_for_two_purple_tarots"] =       0,
+     ["full_price_jokers"] =       false,
+     ["standard_pack_enhancement_rate"] =       40,
+     ["mega_standard_tag_percent"] =       0,
+     ["bannedTarotList"] =       {
+
+      },
+     ["spectral_rate"] =       0,
+     ["uncommon_tag_percent"] =       0,
+     ["all_polychrome"] =       false,
+     ["make_stones_lucky"] =       0,
+     ["halved_probabilities"] =       false,
+     ["disable_mult_cards_chance"] =       0,
+     ["skip_shop_chance_any"] =       0,
+     ["doubled_probabilities"] =       false,
+     ["randomize_hands_discards"] =       false,
+     ["blue_seal_switch_trigger"] =       false,
+     ["one_random_voucher"] =       false,
+     ["randomly_enable_gameplay_settings"] =       false,
+     ["hand_size"] =       0,
+     ["randomize_appearance_rates"] =       false,
+     ["polychrome_tag_percent"] =       0,
+     ["divide_probabilities"] =       1,
+     ["randomize_money_settings"] =       false,
+     ["all_mult"] =       false,
+     ["randomize_money_small"] =       false,
+     ["foil_tag_percent"] =       0,
+     ["consumable_slot"] =       0,
+     ["all_gold"] =       false,
+     ["ouija_cannot_change_hand_size"] =       false,
+     ["orbital_tag_percent"] =       0,
+     ["ethereal_tag_percent"] =       0,
+     ["no_aces"] =       false,
+     ["win_ante"] =       8,
+     ["inflation"] =       false,
+     ["flipped_cards"] =       false,
+     ["random_lucky_cards"] =       0,
+     ["negative_joker_money"] =       0,
+     ["buffoon_tag_percent"] =       0,
+     ["enable_rentals_in_shop"] =       false,
+     ["extra_hand_level_upgrades"] =       0,
+     ["planet_cards_in_arcana"] =       false,
+     ["minus_hand_size_per_X_dollar"] =       false,
+     ["double_tag_percent"] =       0,
+     ["all_bonus"] =       false,
+     ["balance_percent"] =       0,
+     ["randomize_ranks"] =       false,
+     ["negative_joker_for_broken_glass"] =       0,
+     ["uuid"] =       "ff86d6c7-6e17-4934-9639-92e2b4ee24f2",
+     ["economy_tag_percent"] =       0,
+     ["wraith_cannot_set_money_to_zero"] =       false,
+     ["edition_count"] =       1,
+     ["customJokerList"] =       {
+
+      },
+     ["negative_fifty_dollars_allowed"] =       false,
+     ["all_foil"] =       false,
+     ["enhanced_dollars_per_round"] =       0,
+     ["multiply_probabilities"] =       1,
+     ["broken_glass_money"] =       0,
+     ["holographic_tag_percent"] =       0,
+     ["customVoucherList"] =       {
+
+      },
+     ["deck_back_index"] =       22,
+     ["debuff_played_cards"] =       false,
+     ["reroll_boosters"] =       false,
+     ["triple_mult_cards_chance"] =       0,
+     ["bannedBoosterList"] =       {
+
+      },
+     ["d6_tag_percent"] =       0,
+     ["chips_dollar_cap"] =       false,
+     ["make_sevens_lucky"] =       0,
+     ["all_lucky"] =       false,
+     ["all_stone"] =       false,
+     ["playing_card_rate"] =       0,
+     ["all_glass"] =       false,
+     ["all_wild"] =       false,
+     ["all_holo"] =       false,
+     ["standard_pack_seal_rate"] =       20,
+     ["extra_booster_pack_choices"] =       0,
+     ["planet_rate"] =       4,
+     ["tarot_rate"] =       4,
+     ["joker_rate"] =       20,
+     ["random_sell_value_decrease"] =       0,
+     ["skip_shop_chance_small_blind"] =       0,
+     ["negative_tag_percent"] =       0,
+     ["balance_chips"] =       false,
+     ["discount_percent"] =       0,
+     ["interest_cap"] =       25,
+     ["rare_tag_percent"] =       0,
+     ["one_free_card_in_shop"] =       false,
+     ["invert_back"] =       true,
+     ["skip_shop_chance_boss"] =       0,
+     ["chance_for_five_dollars_on_skip_disable"] =       0,
+     ["reroll_discount"] =       0,
+     ["replace_broken_glass_with_random_cards_chance"] =       0,
+     ["randomize_money_configurable"] =       0,
+     ["charm_tag_percent"] =       0,
+     ["joker_slot"] =       5,
+     ["juggle_tag_percent"] =       0,
+     ["spectral_cards_in_celestial"] =       false,
+     ["random_starting_items"] =       false,
+     ["customPlanetList"] =       {
+
+      },
+     ["customDeck"] =       true,
+     ["enable_eternals_in_shop"] =       false,
+     ["allow_soul"] =       false,
+     ["bannedJokerList"] =       {
+
+      },
+     ["aces_are_faces"] =       false,
+     ["draw_to_hand_size"] =       "--",
+     ["extra_celestial_pack_cards"] =       0,
+     ["bannedSpectralList"] =       {
+
+      },
+     ["chance_to_disable_red_seal_retriggers"] =       0,
+     ["extra_standard_pack_cards"] =       0,
+     ["one_free_item_in_shop"] =       false,
+     ["interest_amount"] =       2,
+     ["chance_for_free_booster"] =       0,
+     ["purple_seal_switch_trigger"] =       false,
+     ["investment_tag_percent"] =       0,
+     ["extra_arcana_pack_cards"] =       0,
+     ["bannedPlanetList"] =       {
+
+      },
+     ["voucher_is_free"] =       false,
+     ["chance_to_triple_gold_money"] =       0,
+     ["top_up_tag_percent"] =       0,
+     ["handy_tag_percent"] =       0,
+     ["spectral_cards_cannot_destroy_jokers"] =       false,
+     ["extra_spectral_pack_cards"] =       0,
+     ["chance_for_fifteen_dollars_on_skip_disable"] =       0,
+     ["standard_pack_edition_rate"] =       2,
+     ["no_numbered_cards"] =       false,
+     ["blue_seal_always_most_played"] =       false,
+     ["tarot_cards_in_celestial"] =       false,
+     ["allow_legendary_jokers_everywhere"] =       false,
+     ["customTagList"] =       {
+
+      },
+     ["skip_shop_chance_big_blind"] =       0,
+     ["remove_faces"] =       false,
+     ["hands"] =       1,
+     ["custom_cards_set"] =       true,
+     ["skip_blind_disabled_chance_big_blind"] =       0,
+     ["customSpectralList"] =       {
+
+      },
+     ["garbage_tag_percent"] =       0
+    }
+  },
+   {
+   ["descLine3"] =     "",
+   ["descLine4"] =     "",
+   ["descLine1"] =     "skip the first two blinds - milmax",
+   ["discovered"] =     true,
+   ["descLine2"] =     "",
+   ["loc_txt"] =     {
+     ["name_parsed"] =       {
+               {
+                   {
+           ["strings"] =             {
+                           "naneinf ante 1"
+            },
+           ["control"] =             {
+
+            }
+          }
+        }
+      },
+     ["text_parsed"] =       {
+               {
+                   {
+           ["strings"] =             {
+                           "skip the first two blinds - milmax"
+            },
+           ["control"] =             {
+
+            }
+          }
+        }
+      },
+     ["name"] =       "naneinf ante 1",
+     ["text"] =       {
+               "skip the first two blinds - milmax"
+      }
+    },
+   ["unlocked"] =     true,
+   ["slug"] =     "b_naneinf ante 1_aa1ca655-51c6-45d0-bdf8-cda87603fe34",
+   ["spritePos"] =     {
+     ["y"] =       1,
+     ["x"] =       5
+    },
+   ["name"] =     "naneinf ante 1",
+   ["config"] =     {
+     ["bannedTagList"] =       {
+
+      },
+     ["booster_pack_slots"] =       2,
+     ["reroll_cost"] =       5,
+     ["stones_are_faces"] =       false,
+     ["spectral_cards_in_arcana"] =       false,
+     ["destroy_random_joker_after_ante_four"] =       0,
+     ["sevens_are_faces"] =       false,
+     ["dollars"] =       0,
+     ["discards"] =       0,
+     ["all_eternal"] =       false,
+     ["shop_slots"] =       2,
+     ["no_spectral_destroy_cards"] =       false,
+     ["meteor_tag_percent"] =       0,
+     ["chance_for_negative_joker_on_skip_disable"] =       0,
+     ["coupon_tag_percent"] =       0,
+     ["chance_to_double_gold_seal"] =       0,
+     ["tarot_cards_in_spectral"] =       false,
+     ["ectoplasm_cannot_change_hand_size"] =       false,
+     ["all_steel"] =       false,
+     ["bannedVoucherList"] =       {
+
+      },
+     ["enable_perishables_in_shop"] =       false,
+     ["booster_ante_scaling"] =       0,
+     ["chance_for_random_negative_joker_on_shop_skip"] =       0,
+     ["customTarotList"] =       {
+
+      },
+     ["voucher_slots"] =       1,
+     ["gain_ten_dollars_glass_break_chance"] =       0,
+     ["replace_broken_glass_with_stones_chance"] =       0,
+     ["randomize_rank_suit"] =       false,
+     ["chance_for_negative_joker_on_blue_seal_trigger"] =       0,
+     ["customCardList"] =       {
+       ["C_K_16"] =         {
+         ["suit"] =           "Clubs",
+         ["enhancementKey"] =           "m_steel",
+         ["editionKey"] =           "polychrome",
+         ["uuid"] =           "17a505ca-62d7-48a1-ad72-cb075bcc3c23",
+         ["pos"] =           {
+           ["y"] =             1,
+           ["x"] =             0
+          },
+         ["key"] =           "C_K_16",
+         ["value"] =           "K",
+         ["seal"] =           "Red",
+         ["enhancement"] =           "Steel",
+         ["name"] =           "K of Clubs",
+         ["edition"] =           "Polychrome"
+        },
+       ["H_K_14"] =         {
+         ["suit"] =           "Hearts",
+         ["enhancementKey"] =           "m_steel",
+         ["editionKey"] =           "polychrome",
+         ["uuid"] =           "5cbe53d7-2f88-4082-bdc2-f0e17cfdd69f",
+         ["pos"] =           {
+           ["y"] =             1,
+           ["x"] =             0
+          },
+         ["key"] =           "H_K_14",
+         ["value"] =           "K",
+         ["seal"] =           "Red",
+         ["enhancement"] =           "Steel",
+         ["name"] =           "K of Hearts",
+         ["edition"] =           "Polychrome"
+        },
+       ["C_K_19"] =         {
+         ["suit"] =           "Clubs",
+         ["enhancementKey"] =           "m_steel",
+         ["editionKey"] =           "polychrome",
+         ["uuid"] =           "bc843a79-d896-4f9f-939f-71225c4541af",
+         ["pos"] =           {
+           ["y"] =             1,
+           ["x"] =             0
+          },
+         ["key"] =           "C_K_19",
+         ["value"] =           "K",
+         ["seal"] =           "Red",
+         ["enhancement"] =           "Steel",
+         ["name"] =           "K of Clubs",
+         ["edition"] =           "Polychrome"
+        },
+       ["D_K_18"] =         {
+         ["suit"] =           "Diamonds",
+         ["enhancementKey"] =           "m_steel",
+         ["editionKey"] =           "polychrome",
+         ["uuid"] =           "f1c432c8-c0fc-42ea-a435-0ee377bb6ac3",
+         ["pos"] =           {
+           ["y"] =             1,
+           ["x"] =             0
+          },
+         ["key"] =           "D_K_18",
+         ["value"] =           "K",
+         ["seal"] =           "Red",
+         ["enhancement"] =           "Steel",
+         ["name"] =           "K of Diamonds",
+         ["edition"] =           "Polychrome"
+        },
+       ["C_K_18"] =         {
+         ["suit"] =           "Clubs",
+         ["enhancementKey"] =           "m_steel",
+         ["editionKey"] =           "polychrome",
+         ["uuid"] =           "34738184-6951-4562-aac6-4d3c46b64edb",
+         ["pos"] =           {
+           ["y"] =             1,
+           ["x"] =             0
+          },
+         ["key"] =           "C_K_18",
+         ["value"] =           "K",
+         ["seal"] =           "Red",
+         ["enhancement"] =           "Steel",
+         ["name"] =           "K of Clubs",
+         ["edition"] =           "Polychrome"
+        },
+       ["C_K_22"] =         {
+         ["suit"] =           "Clubs",
+         ["enhancementKey"] =           "m_steel",
+         ["editionKey"] =           "polychrome",
+         ["uuid"] =           "e1d12de2-a623-467e-9dc4-be6fcf678cbd",
+         ["pos"] =           {
+           ["y"] =             1,
+           ["x"] =             0
+          },
+         ["key"] =           "C_K_22",
+         ["value"] =           "K",
+         ["seal"] =           "Red",
+         ["enhancement"] =           "Steel",
+         ["name"] =           "K of Clubs",
+         ["edition"] =           "Polychrome"
+        },
+       ["S_K_14"] =         {
+         ["suit"] =           "Spades",
+         ["enhancementKey"] =           "m_steel",
+         ["editionKey"] =           "polychrome",
+         ["uuid"] =           "01003a21-d454-49d8-811a-0f279b41e4ef",
+         ["pos"] =           {
+           ["y"] =             1,
+           ["x"] =             0
+          },
+         ["key"] =           "S_K_14",
+         ["value"] =           "K",
+         ["seal"] =           "Red",
+         ["enhancement"] =           "Steel",
+         ["name"] =           "K of Spades",
+         ["edition"] =           "Polychrome"
+        },
+       ["S_K_39"] =         {
+         ["suit"] =           "Spades",
+         ["enhancementKey"] =           "m_steel",
+         ["editionKey"] =           "polychrome",
+         ["uuid"] =           "7c1359ea-8b83-43ab-a23a-45b56094797a",
+         ["pos"] =           {
+           ["y"] =             1,
+           ["x"] =             0
+          },
+         ["key"] =           "S_K_39",
+         ["value"] =           "K",
+         ["seal"] =           "Red",
+         ["enhancement"] =           "Steel",
+         ["name"] =           "K of Spades",
+         ["edition"] =           "Polychrome"
+        },
+       ["C_K_23"] =         {
+         ["suit"] =           "Clubs",
+         ["enhancementKey"] =           "m_steel",
+         ["editionKey"] =           "polychrome",
+         ["uuid"] =           "c8d618ef-ff63-41c8-93bc-4b10d337188d",
+         ["pos"] =           {
+           ["y"] =             1,
+           ["x"] =             0
+          },
+         ["key"] =           "C_K_23",
+         ["value"] =           "K",
+         ["seal"] =           "Red",
+         ["enhancement"] =           "Steel",
+         ["name"] =           "K of Clubs",
+         ["edition"] =           "Polychrome"
+        },
+       ["D_K_38"] =         {
+         ["suit"] =           "Diamonds",
+         ["enhancementKey"] =           "m_steel",
+         ["editionKey"] =           "polychrome",
+         ["uuid"] =           "9e03e9a6-5bca-4ee9-8c07-a3f91dafb039",
+         ["pos"] =           {
+           ["y"] =             1,
+           ["x"] =             0
+          },
+         ["key"] =           "D_K_38",
+         ["value"] =           "K",
+         ["seal"] =           "Red",
+         ["enhancement"] =           "Steel",
+         ["name"] =           "K of Diamonds",
+         ["edition"] =           "Polychrome"
+        },
+       ["S_K_13"] =         {
+         ["suit"] =           "Spades",
+         ["enhancementKey"] =           "m_steel",
+         ["editionKey"] =           "polychrome",
+         ["uuid"] =           "8dac1949-c0fb-4ef2-a0fe-98d49514e691",
+         ["pos"] =           {
+           ["y"] =             1,
+           ["x"] =             0
+          },
+         ["key"] =           "S_K_13",
+         ["value"] =           "K",
+         ["seal"] =           "Red",
+         ["enhancement"] =           "Steel",
+         ["name"] =           "K of Spades",
+         ["edition"] =           "Polychrome"
+        },
+       ["H_K_39"] =         {
+         ["suit"] =           "Hearts",
+         ["enhancementKey"] =           "m_steel",
+         ["editionKey"] =           "polychrome",
+         ["uuid"] =           "ac04edcd-8a80-4df6-ac45-403fb82aa5ee",
+         ["pos"] =           {
+           ["y"] =             1,
+           ["x"] =             0
+          },
+         ["key"] =           "H_K_39",
+         ["value"] =           "K",
+         ["seal"] =           "Red",
+         ["enhancement"] =           "Steel",
+         ["name"] =           "K of Hearts",
+         ["edition"] =           "Polychrome"
+        },
+       ["D_K_12"] =         {
+         ["suit"] =           "Diamonds",
+         ["enhancementKey"] =           "m_steel",
+         ["editionKey"] =           "polychrome",
+         ["uuid"] =           "1bd67c79-9f06-478e-89a4-5c934e4897f3",
+         ["pos"] =           {
+           ["y"] =             1,
+           ["x"] =             0
+          },
+         ["key"] =           "D_K_12",
+         ["value"] =           "K",
+         ["seal"] =           "Red",
+         ["enhancement"] =           "Steel",
+         ["name"] =           "K of Diamonds",
+         ["edition"] =           "Polychrome"
+        },
+       ["S_K_12"] =         {
+         ["suit"] =           "Spades",
+         ["enhancementKey"] =           "m_steel",
+         ["editionKey"] =           "polychrome",
+         ["uuid"] =           "d6593b30-b7a0-41ab-aaa2-725ba6156589",
+         ["pos"] =           {
+           ["y"] =             1,
+           ["x"] =             0
+          },
+         ["key"] =           "S_K_12",
+         ["value"] =           "K",
+         ["seal"] =           "Red",
+         ["enhancement"] =           "Steel",
+         ["name"] =           "K of Spades",
+         ["edition"] =           "Polychrome"
+        },
+       ["C_K_15"] =         {
+         ["suit"] =           "Clubs",
+         ["enhancementKey"] =           "m_steel",
+         ["editionKey"] =           "polychrome",
+         ["uuid"] =           "6d9b4c73-2ff8-4bde-832d-fb84a5d97ecc",
+         ["pos"] =           {
+           ["y"] =             1,
+           ["x"] =             0
+          },
+         ["key"] =           "C_K_15",
+         ["value"] =           "K",
+         ["seal"] =           "Red",
+         ["enhancement"] =           "Steel",
+         ["name"] =           "K of Clubs",
+         ["edition"] =           "Polychrome"
+        },
+       ["H_K_13"] =         {
+         ["suit"] =           "Hearts",
+         ["enhancementKey"] =           "m_steel",
+         ["editionKey"] =           "polychrome",
+         ["uuid"] =           "2420ac42-598f-4f88-bba1-aa9dcf1a162c",
+         ["pos"] =           {
+           ["y"] =             1,
+           ["x"] =             0
+          },
+         ["key"] =           "H_K_13",
+         ["value"] =           "K",
+         ["seal"] =           "Red",
+         ["enhancement"] =           "Steel",
+         ["name"] =           "K of Hearts",
+         ["edition"] =           "Polychrome"
+        },
+       ["D_K_44"] =         {
+         ["suit"] =           "Diamonds",
+         ["enhancementKey"] =           "m_steel",
+         ["editionKey"] =           "polychrome",
+         ["uuid"] =           "545053ce-ad34-4202-a2b0-4bdba5e7d090",
+         ["pos"] =           {
+           ["y"] =             1,
+           ["x"] =             0
+          },
+         ["key"] =           "D_K_44",
+         ["value"] =           "K",
+         ["seal"] =           "Red",
+         ["enhancement"] =           "Steel",
+         ["name"] =           "K of Diamonds",
+         ["edition"] =           "Polychrome"
+        },
+       ["D_K_14"] =         {
+         ["suit"] =           "Diamonds",
+         ["enhancementKey"] =           "m_steel",
+         ["editionKey"] =           "polychrome",
+         ["uuid"] =           "0fd76082-4dba-48ee-b913-0ad2bbae8661",
+         ["pos"] =           {
+           ["y"] =             1,
+           ["x"] =             0
+          },
+         ["key"] =           "D_K_14",
+         ["value"] =           "K",
+         ["seal"] =           "Red",
+         ["enhancement"] =           "Steel",
+         ["name"] =           "K of Diamonds",
+         ["edition"] =           "Polychrome"
+        },
+       ["C_K_14"] =         {
+         ["suit"] =           "Clubs",
+         ["enhancementKey"] =           "m_steel",
+         ["editionKey"] =           "polychrome",
+         ["uuid"] =           "9916025d-9011-44eb-ba04-3bbb4f9a82de",
+         ["pos"] =           {
+           ["y"] =             1,
+           ["x"] =             0
+          },
+         ["key"] =           "C_K_14",
+         ["value"] =           "K",
+         ["seal"] =           "Red",
+         ["enhancement"] =           "Steel",
+         ["name"] =           "K of Clubs",
+         ["edition"] =           "Polychrome"
+        },
+       ["S_K_24"] =         {
+         ["suit"] =           "Spades",
+         ["enhancementKey"] =           "m_steel",
+         ["editionKey"] =           "polychrome",
+         ["uuid"] =           "9026140b-f903-44ef-bea1-b04dc8f193fd",
+         ["pos"] =           {
+           ["y"] =             1,
+           ["x"] =             0
+          },
+         ["key"] =           "S_K_24",
+         ["value"] =           "K",
+         ["seal"] =           "Red",
+         ["enhancement"] =           "Steel",
+         ["name"] =           "K of Spades",
+         ["edition"] =           "Polychrome"
+        },
+       ["S_K_58"] =         {
+         ["suit"] =           "Spades",
+         ["enhancementKey"] =           "m_steel",
+         ["editionKey"] =           "polychrome",
+         ["uuid"] =           "399d2611-0785-44ab-a716-98b2e3afe51c",
+         ["pos"] =           {
+           ["y"] =             1,
+           ["x"] =             0
+          },
+         ["key"] =           "S_K_58",
+         ["value"] =           "K",
+         ["seal"] =           "Red",
+         ["enhancement"] =           "Steel",
+         ["name"] =           "K of Spades",
+         ["edition"] =           "Polychrome"
+        },
+       ["C_K_44"] =         {
+         ["suit"] =           "Clubs",
+         ["enhancementKey"] =           "m_steel",
+         ["editionKey"] =           "polychrome",
+         ["uuid"] =           "2e748f21-e788-49f1-9b31-62d7d617a19f",
+         ["pos"] =           {
+           ["y"] =             1,
+           ["x"] =             0
+          },
+         ["key"] =           "C_K_44",
+         ["value"] =           "K",
+         ["seal"] =           "Red",
+         ["enhancement"] =           "Steel",
+         ["name"] =           "K of Clubs",
+         ["edition"] =           "Polychrome"
+        },
+       ["C_K_25"] =         {
+         ["suit"] =           "Clubs",
+         ["enhancementKey"] =           "m_steel",
+         ["editionKey"] =           "polychrome",
+         ["uuid"] =           "67bdd835-cd3d-43e7-b277-c01f9b0eae93",
+         ["pos"] =           {
+           ["y"] =             1,
+           ["x"] =             0
+          },
+         ["key"] =           "C_K_25",
+         ["value"] =           "K",
+         ["seal"] =           "Red",
+         ["enhancement"] =           "Steel",
+         ["name"] =           "K of Clubs",
+         ["edition"] =           "Polychrome"
+        },
+       ["D_K_46"] =         {
+         ["suit"] =           "Diamonds",
+         ["enhancementKey"] =           "m_steel",
+         ["editionKey"] =           "polychrome",
+         ["uuid"] =           "79c1fe6d-26c0-4ef1-8b4f-14625dd309ef",
+         ["pos"] =           {
+           ["y"] =             1,
+           ["x"] =             0
+          },
+         ["key"] =           "D_K_46",
+         ["value"] =           "K",
+         ["seal"] =           "Red",
+         ["enhancement"] =           "Steel",
+         ["name"] =           "K of Diamonds",
+         ["edition"] =           "Polychrome"
+        },
+       ["H_K_27"] =         {
+         ["suit"] =           "Hearts",
+         ["enhancementKey"] =           "m_steel",
+         ["editionKey"] =           "polychrome",
+         ["uuid"] =           "efecbebe-9149-4b4f-b0cc-83561e38b90d",
+         ["pos"] =           {
+           ["y"] =             1,
+           ["x"] =             0
+          },
+         ["key"] =           "H_K_27",
+         ["value"] =           "K",
+         ["seal"] =           "Red",
+         ["enhancement"] =           "Steel",
+         ["name"] =           "K of Hearts",
+         ["edition"] =           "Polychrome"
+        },
+       ["H_K_44"] =         {
+         ["suit"] =           "Hearts",
+         ["enhancementKey"] =           "m_steel",
+         ["editionKey"] =           "polychrome",
+         ["uuid"] =           "183e1523-f7ae-4793-ba3d-01143fb7ccac",
+         ["pos"] =           {
+           ["y"] =             1,
+           ["x"] =             0
+          },
+         ["key"] =           "H_K_44",
+         ["value"] =           "K",
+         ["seal"] =           "Red",
+         ["enhancement"] =           "Steel",
+         ["name"] =           "K of Hearts",
+         ["edition"] =           "Polychrome"
+        },
+       ["D_K_34"] =         {
+         ["suit"] =           "Diamonds",
+         ["enhancementKey"] =           "m_steel",
+         ["editionKey"] =           "polychrome",
+         ["uuid"] =           "27489046-547b-4d1d-afdb-0acc926930b0",
+         ["pos"] =           {
+           ["y"] =             1,
+           ["x"] =             0
+          },
+         ["key"] =           "D_K_34",
+         ["value"] =           "K",
+         ["seal"] =           "Red",
+         ["enhancement"] =           "Steel",
+         ["name"] =           "K of Diamonds",
+         ["edition"] =           "Polychrome"
+        },
+       ["H_K_24"] =         {
+         ["suit"] =           "Hearts",
+         ["enhancementKey"] =           "m_steel",
+         ["editionKey"] =           "polychrome",
+         ["uuid"] =           "878db0e6-26ae-4073-b9bc-3e6caa7c9873",
+         ["pos"] =           {
+           ["y"] =             1,
+           ["x"] =             0
+          },
+         ["key"] =           "H_K_24",
+         ["value"] =           "K",
+         ["seal"] =           "Red",
+         ["enhancement"] =           "Steel",
+         ["name"] =           "K of Hearts",
+         ["edition"] =           "Polychrome"
+        },
+       ["S_K_34"] =         {
+         ["suit"] =           "Spades",
+         ["enhancementKey"] =           "m_steel",
+         ["editionKey"] =           "polychrome",
+         ["uuid"] =           "1ee23caa-ab87-4d53-9ca6-76a5d2fa715b",
+         ["pos"] =           {
+           ["y"] =             1,
+           ["x"] =             0
+          },
+         ["key"] =           "S_K_34",
+         ["value"] =           "K",
+         ["seal"] =           "Red",
+         ["enhancement"] =           "Steel",
+         ["name"] =           "K of Spades",
+         ["edition"] =           "Polychrome"
+        },
+       ["H_K_36"] =         {
+         ["suit"] =           "Hearts",
+         ["enhancementKey"] =           "m_steel",
+         ["editionKey"] =           "polychrome",
+         ["uuid"] =           "143d22be-5023-4424-ba35-d77137713182",
+         ["pos"] =           {
+           ["y"] =             1,
+           ["x"] =             0
+          },
+         ["key"] =           "H_K_36",
+         ["value"] =           "K",
+         ["seal"] =           "Red",
+         ["enhancement"] =           "Steel",
+         ["name"] =           "K of Hearts",
+         ["edition"] =           "Polychrome"
+        },
+       ["S_K_26"] =         {
+         ["suit"] =           "Spades",
+         ["enhancementKey"] =           "m_steel",
+         ["editionKey"] =           "polychrome",
+         ["uuid"] =           "ad5cf5d4-bb2f-475a-822d-f8c4da2bf814",
+         ["pos"] =           {
+           ["y"] =             1,
+           ["x"] =             0
+          },
+         ["key"] =           "S_K_26",
+         ["value"] =           "K",
+         ["seal"] =           "Red",
+         ["enhancement"] =           "Steel",
+         ["name"] =           "K of Spades",
+         ["edition"] =           "Polychrome"
+        },
+       ["D_K_28"] =         {
+         ["suit"] =           "Diamonds",
+         ["enhancementKey"] =           "m_steel",
+         ["editionKey"] =           "polychrome",
+         ["uuid"] =           "11cb0e38-4d9b-4592-9fdc-0b46db84e7df",
+         ["pos"] =           {
+           ["y"] =             1,
+           ["x"] =             0
+          },
+         ["key"] =           "D_K_28",
+         ["value"] =           "K",
+         ["seal"] =           "Red",
+         ["enhancement"] =           "Steel",
+         ["name"] =           "K of Diamonds",
+         ["edition"] =           "Polychrome"
+        },
+       ["H_K_9"] =         {
+         ["suit"] =           "Hearts",
+         ["enhancementKey"] =           "m_steel",
+         ["editionKey"] =           "polychrome",
+         ["uuid"] =           "40401ad1-7552-459f-883a-7ae6df33f307",
+         ["pos"] =           {
+           ["y"] =             1,
+           ["x"] =             0
+          },
+         ["key"] =           "H_K_9",
+         ["value"] =           "K",
+         ["seal"] =           "Red",
+         ["enhancement"] =           "Steel",
+         ["name"] =           "K of Hearts",
+         ["edition"] =           "Polychrome"
+        },
+       ["D_K_66"] =         {
+         ["suit"] =           "Diamonds",
+         ["enhancementKey"] =           "m_steel",
+         ["editionKey"] =           "polychrome",
+         ["uuid"] =           "f451c558-9497-4e90-b2e7-ce512627771d",
+         ["pos"] =           {
+           ["y"] =             1,
+           ["x"] =             0
+          },
+         ["key"] =           "D_K_66",
+         ["value"] =           "K",
+         ["seal"] =           "Red",
+         ["enhancement"] =           "Steel",
+         ["name"] =           "K of Diamonds",
+         ["edition"] =           "Polychrome"
+        },
+       ["S_K_27"] =         {
+         ["suit"] =           "Spades",
+         ["enhancementKey"] =           "m_steel",
+         ["editionKey"] =           "polychrome",
+         ["uuid"] =           "ad2be272-6e88-4778-ad45-0d7a21d6554f",
+         ["pos"] =           {
+           ["y"] =             1,
+           ["x"] =             0
+          },
+         ["key"] =           "S_K_27",
+         ["value"] =           "K",
+         ["seal"] =           "Red",
+         ["enhancement"] =           "Steel",
+         ["name"] =           "K of Spades",
+         ["edition"] =           "Polychrome"
+        },
+       ["S_K_37"] =         {
+         ["suit"] =           "Spades",
+         ["enhancementKey"] =           "m_steel",
+         ["editionKey"] =           "polychrome",
+         ["uuid"] =           "c21d279e-df7c-4ecf-8ed8-a1c02bf34cb8",
+         ["pos"] =           {
+           ["y"] =             1,
+           ["x"] =             0
+          },
+         ["key"] =           "S_K_37",
+         ["value"] =           "K",
+         ["seal"] =           "Red",
+         ["enhancement"] =           "Steel",
+         ["name"] =           "K of Spades",
+         ["edition"] =           "Polychrome"
+        },
+       ["D_K_11"] =         {
+         ["suit"] =           "Diamonds",
+         ["enhancementKey"] =           "m_steel",
+         ["editionKey"] =           "polychrome",
+         ["uuid"] =           "6b33a687-dbdc-467d-b0e1-6037dd18ccea",
+         ["pos"] =           {
+           ["y"] =             1,
+           ["x"] =             0
+          },
+         ["key"] =           "D_K_11",
+         ["value"] =           "K",
+         ["seal"] =           "Red",
+         ["enhancement"] =           "Steel",
+         ["name"] =           "K of Diamonds",
+         ["edition"] =           "Polychrome"
+        },
+       ["S_K_36"] =         {
+         ["suit"] =           "Spades",
+         ["enhancementKey"] =           "m_steel",
+         ["editionKey"] =           "polychrome",
+         ["uuid"] =           "5512f1b1-1a12-46b1-aaa8-20c39837d11d",
+         ["pos"] =           {
+           ["y"] =             1,
+           ["x"] =             0
+          },
+         ["key"] =           "S_K_36",
+         ["value"] =           "K",
+         ["seal"] =           "Red",
+         ["enhancement"] =           "Steel",
+         ["name"] =           "K of Spades",
+         ["edition"] =           "Polychrome"
+        },
+       ["H_K_59"] =         {
+         ["suit"] =           "Hearts",
+         ["enhancementKey"] =           "m_steel",
+         ["editionKey"] =           "polychrome",
+         ["uuid"] =           "22259a46-c90d-4fff-850a-c9267bca46df",
+         ["pos"] =           {
+           ["y"] =             1,
+           ["x"] =             0
+          },
+         ["key"] =           "H_K_59",
+         ["value"] =           "K",
+         ["seal"] =           "Red",
+         ["enhancement"] =           "Steel",
+         ["name"] =           "K of Hearts",
+         ["edition"] =           "Polychrome"
+        },
+       ["D_K_10"] =         {
+         ["suit"] =           "Diamonds",
+         ["enhancementKey"] =           "m_steel",
+         ["editionKey"] =           "polychrome",
+         ["uuid"] =           "e8ada9e6-dec4-42dd-a49c-ab6e730c2c96",
+         ["pos"] =           {
+           ["y"] =             1,
+           ["x"] =             0
+          },
+         ["key"] =           "D_K_10",
+         ["value"] =           "K",
+         ["seal"] =           "Red",
+         ["enhancement"] =           "Steel",
+         ["name"] =           "K of Diamonds",
+         ["edition"] =           "Polychrome"
+        },
+       ["C_K_20"] =         {
+         ["suit"] =           "Clubs",
+         ["enhancementKey"] =           "m_steel",
+         ["editionKey"] =           "polychrome",
+         ["uuid"] =           "0dd6cf9c-e17f-4469-b1de-95eae96277be",
+         ["pos"] =           {
+           ["y"] =             1,
+           ["x"] =             0
+          },
+         ["key"] =           "C_K_20",
+         ["value"] =           "K",
+         ["seal"] =           "Red",
+         ["enhancement"] =           "Steel",
+         ["name"] =           "K of Clubs",
+         ["edition"] =           "Polychrome"
+        },
+       ["C_K_11"] =         {
+         ["suit"] =           "Clubs",
+         ["enhancementKey"] =           "m_steel",
+         ["editionKey"] =           "polychrome",
+         ["uuid"] =           "492cd08b-de28-41a4-804c-175e5e32b2d6",
+         ["pos"] =           {
+           ["y"] =             1,
+           ["x"] =             0
+          },
+         ["key"] =           "C_K_11",
+         ["value"] =           "K",
+         ["seal"] =           "Red",
+         ["enhancement"] =           "Steel",
+         ["name"] =           "K of Clubs",
+         ["edition"] =           "Polychrome"
+        },
+       ["D_K_13"] =         {
+         ["suit"] =           "Diamonds",
+         ["enhancementKey"] =           "m_steel",
+         ["editionKey"] =           "polychrome",
+         ["uuid"] =           "e395e8b5-5796-4d1f-ae37-c5e82a908b0b",
+         ["pos"] =           {
+           ["y"] =             1,
+           ["x"] =             0
+          },
+         ["key"] =           "D_K_13",
+         ["value"] =           "K",
+         ["seal"] =           "Red",
+         ["enhancement"] =           "Steel",
+         ["name"] =           "K of Diamonds",
+         ["edition"] =           "Polychrome"
+        },
+       ["D_K_21"] =         {
+         ["suit"] =           "Diamonds",
+         ["enhancementKey"] =           "m_steel",
+         ["editionKey"] =           "polychrome",
+         ["uuid"] =           "e0a1686e-03e6-4e1e-a183-c9b2aaee5c08",
+         ["pos"] =           {
+           ["y"] =             1,
+           ["x"] =             0
+          },
+         ["key"] =           "D_K_21",
+         ["value"] =           "K",
+         ["seal"] =           "Red",
+         ["enhancement"] =           "Steel",
+         ["name"] =           "K of Diamonds",
+         ["edition"] =           "Polychrome"
+        },
+       ["C_K_21"] =         {
+         ["suit"] =           "Clubs",
+         ["enhancementKey"] =           "m_steel",
+         ["editionKey"] =           "polychrome",
+         ["uuid"] =           "9b7b5235-b2c0-44e2-8d57-3d8064ccf69f",
+         ["pos"] =           {
+           ["y"] =             1,
+           ["x"] =             0
+          },
+         ["key"] =           "C_K_21",
+         ["value"] =           "K",
+         ["seal"] =           "Red",
+         ["enhancement"] =           "Steel",
+         ["name"] =           "K of Clubs",
+         ["edition"] =           "Polychrome"
+        },
+       ["C_K_43"] =         {
+         ["suit"] =           "Clubs",
+         ["enhancementKey"] =           "m_steel",
+         ["editionKey"] =           "polychrome",
+         ["uuid"] =           "163b5a37-eeae-4843-81ce-ad6e20a333d3",
+         ["pos"] =           {
+           ["y"] =             1,
+           ["x"] =             0
+          },
+         ["key"] =           "C_K_43",
+         ["value"] =           "K",
+         ["seal"] =           "Red",
+         ["enhancement"] =           "Steel",
+         ["name"] =           "K of Clubs",
+         ["edition"] =           "Polychrome"
+        },
+       ["H_K_23"] =         {
+         ["suit"] =           "Hearts",
+         ["enhancementKey"] =           "m_steel",
+         ["editionKey"] =           "polychrome",
+         ["uuid"] =           "a2988468-e915-4fce-b4d2-c36448c489c7",
+         ["pos"] =           {
+           ["y"] =             1,
+           ["x"] =             0
+          },
+         ["key"] =           "H_K_23",
+         ["value"] =           "K",
+         ["seal"] =           "Red",
+         ["enhancement"] =           "Steel",
+         ["name"] =           "K of Hearts",
+         ["edition"] =           "Polychrome"
+        },
+       ["C_K_31"] =         {
+         ["suit"] =           "Clubs",
+         ["enhancementKey"] =           "m_steel",
+         ["editionKey"] =           "polychrome",
+         ["uuid"] =           "5d8f2996-6602-4cd5-ae3d-542480609967",
+         ["pos"] =           {
+           ["y"] =             1,
+           ["x"] =             0
+          },
+         ["key"] =           "C_K_31",
+         ["value"] =           "K",
+         ["seal"] =           "Red",
+         ["enhancement"] =           "Steel",
+         ["name"] =           "K of Clubs",
+         ["edition"] =           "Polychrome"
+        },
+       ["D_K_26"] =         {
+         ["suit"] =           "Diamonds",
+         ["enhancementKey"] =           "m_steel",
+         ["editionKey"] =           "polychrome",
+         ["uuid"] =           "ed471c16-e7ae-4608-ba26-64b81ba0fcdc",
+         ["pos"] =           {
+           ["y"] =             1,
+           ["x"] =             0
+          },
+         ["key"] =           "D_K_26",
+         ["value"] =           "K",
+         ["seal"] =           "Red",
+         ["enhancement"] =           "Steel",
+         ["name"] =           "K of Diamonds",
+         ["edition"] =           "Polychrome"
+        },
+       ["C_K_26"] =         {
+         ["suit"] =           "Clubs",
+         ["enhancementKey"] =           "m_steel",
+         ["editionKey"] =           "polychrome",
+         ["uuid"] =           "33750306-d8db-41c5-b632-80e68f8a5d20",
+         ["pos"] =           {
+           ["y"] =             1,
+           ["x"] =             0
+          },
+         ["key"] =           "C_K_26",
+         ["value"] =           "K",
+         ["seal"] =           "Red",
+         ["enhancement"] =           "Steel",
+         ["name"] =           "K of Clubs",
+         ["edition"] =           "Polychrome"
+        },
+       ["D_K_30"] =         {
+         ["suit"] =           "Diamonds",
+         ["enhancementKey"] =           "m_steel",
+         ["editionKey"] =           "polychrome",
+         ["uuid"] =           "3b2a0bf7-e214-46be-a1ed-835280567175",
+         ["pos"] =           {
+           ["y"] =             1,
+           ["x"] =             0
+          },
+         ["key"] =           "D_K_30",
+         ["value"] =           "K",
+         ["seal"] =           "Red",
+         ["enhancement"] =           "Steel",
+         ["name"] =           "K of Diamonds",
+         ["edition"] =           "Polychrome"
+        },
+       ["H_K_20"] =         {
+         ["suit"] =           "Hearts",
+         ["enhancementKey"] =           "m_steel",
+         ["editionKey"] =           "polychrome",
+         ["uuid"] =           "7e1ecee2-b5bc-427c-809a-c592b1f8666d",
+         ["pos"] =           {
+           ["y"] =             1,
+           ["x"] =             0
+          },
+         ["key"] =           "H_K_20",
+         ["value"] =           "K",
+         ["seal"] =           "Red",
+         ["enhancement"] =           "Steel",
+         ["name"] =           "K of Hearts",
+         ["edition"] =           "Polychrome"
+        },
+       ["C_K_30"] =         {
+         ["suit"] =           "Clubs",
+         ["enhancementKey"] =           "m_steel",
+         ["editionKey"] =           "polychrome",
+         ["uuid"] =           "f2698a59-0d5b-45e8-bc77-e05be65df1f8",
+         ["pos"] =           {
+           ["y"] =             1,
+           ["x"] =             0
+          },
+         ["key"] =           "C_K_30",
+         ["value"] =           "K",
+         ["seal"] =           "Red",
+         ["enhancement"] =           "Steel",
+         ["name"] =           "K of Clubs",
+         ["edition"] =           "Polychrome"
+        },
+       ["D_K_27"] =         {
+         ["suit"] =           "Diamonds",
+         ["enhancementKey"] =           "m_steel",
+         ["editionKey"] =           "polychrome",
+         ["uuid"] =           "4372c243-800f-44f0-94d9-4bb8e42cdfb8",
+         ["pos"] =           {
+           ["y"] =             1,
+           ["x"] =             0
+          },
+         ["key"] =           "D_K_27",
+         ["value"] =           "K",
+         ["seal"] =           "Red",
+         ["enhancement"] =           "Steel",
+         ["name"] =           "K of Diamonds",
+         ["edition"] =           "Polychrome"
+        },
+       ["S_K_77"] =         {
+         ["suit"] =           "Spades",
+         ["enhancementKey"] =           "m_steel",
+         ["editionKey"] =           "polychrome",
+         ["uuid"] =           "5a784f21-1dd7-4146-b0a8-a577f64f428d",
+         ["pos"] =           {
+           ["y"] =             1,
+           ["x"] =             0
+          },
+         ["key"] =           "S_K_77",
+         ["value"] =           "K",
+         ["seal"] =           "Red",
+         ["enhancement"] =           "Steel",
+         ["name"] =           "K of Spades",
+         ["edition"] =           "Polychrome"
+        },
+       ["C_K_27"] =         {
+         ["suit"] =           "Clubs",
+         ["enhancementKey"] =           "m_steel",
+         ["editionKey"] =           "polychrome",
+         ["uuid"] =           "a5fd9349-6b76-47d6-9a8f-4b896d691c19",
+         ["pos"] =           {
+           ["y"] =             1,
+           ["x"] =             0
+          },
+         ["key"] =           "C_K_27",
+         ["value"] =           "K",
+         ["seal"] =           "Red",
+         ["enhancement"] =           "Steel",
+         ["name"] =           "K of Clubs",
+         ["edition"] =           "Polychrome"
+        },
+       ["D_K_37"] =         {
+         ["suit"] =           "Diamonds",
+         ["enhancementKey"] =           "m_steel",
+         ["editionKey"] =           "polychrome",
+         ["uuid"] =           "1f6d7ff1-d2b1-4b42-8d22-a8d00f824833",
+         ["pos"] =           {
+           ["y"] =             1,
+           ["x"] =             0
+          },
+         ["key"] =           "D_K_37",
+         ["value"] =           "K",
+         ["seal"] =           "Red",
+         ["enhancement"] =           "Steel",
+         ["name"] =           "K of Diamonds",
+         ["edition"] =           "Polychrome"
+        },
+       ["H_K_21"] =         {
+         ["suit"] =           "Hearts",
+         ["enhancementKey"] =           "m_steel",
+         ["editionKey"] =           "polychrome",
+         ["uuid"] =           "4987f09f-8f56-466c-8b33-2045f0ca3f61",
+         ["pos"] =           {
+           ["y"] =             1,
+           ["x"] =             0
+          },
+         ["key"] =           "H_K_21",
+         ["value"] =           "K",
+         ["seal"] =           "Red",
+         ["enhancement"] =           "Steel",
+         ["name"] =           "K of Hearts",
+         ["edition"] =           "Polychrome"
+        },
+       ["S_K_40"] =         {
+         ["suit"] =           "Spades",
+         ["enhancementKey"] =           "m_steel",
+         ["editionKey"] =           "polychrome",
+         ["uuid"] =           "f4586f61-97ed-4b5f-bced-f12c4364d9de",
+         ["pos"] =           {
+           ["y"] =             1,
+           ["x"] =             0
+          },
+         ["key"] =           "S_K_40",
+         ["value"] =           "K",
+         ["seal"] =           "Red",
+         ["enhancement"] =           "Steel",
+         ["name"] =           "K of Spades",
+         ["edition"] =           "Polychrome"
+        },
+       ["C_K_77"] =         {
+         ["suit"] =           "Clubs",
+         ["enhancementKey"] =           "m_steel",
+         ["editionKey"] =           "polychrome",
+         ["uuid"] =           "22de6317-214f-4f54-84a8-16d19a9aea03",
+         ["pos"] =           {
+           ["y"] =             1,
+           ["x"] =             0
+          },
+         ["key"] =           "C_K_77",
+         ["value"] =           "K",
+         ["seal"] =           "Red",
+         ["enhancement"] =           "Steel",
+         ["name"] =           "K of Clubs",
+         ["edition"] =           "Polychrome"
+        },
+       ["H_K_76"] =         {
+         ["suit"] =           "Hearts",
+         ["enhancementKey"] =           "m_steel",
+         ["editionKey"] =           "polychrome",
+         ["uuid"] =           "243e35e2-39df-4840-8675-e2c4bf28a2bf",
+         ["pos"] =           {
+           ["y"] =             1,
+           ["x"] =             0
+          },
+         ["key"] =           "H_K_76",
+         ["value"] =           "K",
+         ["seal"] =           "Red",
+         ["enhancement"] =           "Steel",
+         ["name"] =           "K of Hearts",
+         ["edition"] =           "Polychrome"
+        },
+       ["C_K_52"] =         {
+         ["suit"] =           "Clubs",
+         ["enhancementKey"] =           "m_steel",
+         ["editionKey"] =           "polychrome",
+         ["uuid"] =           "ba3213c5-8c34-40bd-9ffa-7afd76007c40",
+         ["pos"] =           {
+           ["y"] =             1,
+           ["x"] =             0
+          },
+         ["key"] =           "C_K_52",
+         ["value"] =           "K",
+         ["seal"] =           "Red",
+         ["enhancement"] =           "Steel",
+         ["name"] =           "K of Clubs",
+         ["edition"] =           "Polychrome"
+        },
+       ["D_K_36"] =         {
+         ["suit"] =           "Diamonds",
+         ["enhancementKey"] =           "m_steel",
+         ["editionKey"] =           "polychrome",
+         ["uuid"] =           "77357aa3-40a3-4727-9302-7bb4017ef14e",
+         ["pos"] =           {
+           ["y"] =             1,
+           ["x"] =             0
+          },
+         ["key"] =           "D_K_36",
+         ["value"] =           "K",
+         ["seal"] =           "Red",
+         ["enhancement"] =           "Steel",
+         ["name"] =           "K of Diamonds",
+         ["edition"] =           "Polychrome"
+        },
+       ["H_K_26"] =         {
+         ["suit"] =           "Hearts",
+         ["enhancementKey"] =           "m_steel",
+         ["editionKey"] =           "polychrome",
+         ["uuid"] =           "ab9748b4-cc0c-4618-b218-3494e2494272",
+         ["pos"] =           {
+           ["y"] =             1,
+           ["x"] =             0
+          },
+         ["key"] =           "H_K_26",
+         ["value"] =           "K",
+         ["seal"] =           "Red",
+         ["enhancement"] =           "Steel",
+         ["name"] =           "K of Hearts",
+         ["edition"] =           "Polychrome"
+        },
+       ["S_K_41"] =         {
+         ["suit"] =           "Spades",
+         ["enhancementKey"] =           "m_steel",
+         ["editionKey"] =           "polychrome",
+         ["uuid"] =           "b6cfa95a-3ce1-490f-b5fc-57cdc345e7c1",
+         ["pos"] =           {
+           ["y"] =             1,
+           ["x"] =             0
+          },
+         ["key"] =           "S_K_41",
+         ["value"] =           "K",
+         ["seal"] =           "Red",
+         ["enhancement"] =           "Steel",
+         ["name"] =           "K of Spades",
+         ["edition"] =           "Polychrome"
+        },
+       ["C_K_17"] =         {
+         ["suit"] =           "Clubs",
+         ["enhancementKey"] =           "m_steel",
+         ["editionKey"] =           "polychrome",
+         ["uuid"] =           "c75a1f29-153b-4c34-8379-0fcfb606d000",
+         ["pos"] =           {
+           ["y"] =             1,
+           ["x"] =             0
+          },
+         ["key"] =           "C_K_17",
+         ["value"] =           "K",
+         ["seal"] =           "Red",
+         ["enhancement"] =           "Steel",
+         ["name"] =           "K of Clubs",
+         ["edition"] =           "Polychrome"
+        },
+       ["S_K_33"] =         {
+         ["suit"] =           "Spades",
+         ["enhancementKey"] =           "m_steel",
+         ["editionKey"] =           "polychrome",
+         ["uuid"] =           "f061339a-0c92-4716-a294-fb1f91fe0b6a",
+         ["pos"] =           {
+           ["y"] =             1,
+           ["x"] =             0
+          },
+         ["key"] =           "S_K_33",
+         ["value"] =           "K",
+         ["seal"] =           "Red",
+         ["enhancement"] =           "Steel",
+         ["name"] =           "K of Spades",
+         ["edition"] =           "Polychrome"
+        },
+       ["H_K_52"] =         {
+         ["suit"] =           "Hearts",
+         ["enhancementKey"] =           "m_steel",
+         ["editionKey"] =           "polychrome",
+         ["uuid"] =           "055ab305-dbfa-4773-a443-0c0d2400f617",
+         ["pos"] =           {
+           ["y"] =             1,
+           ["x"] =             0
+          },
+         ["key"] =           "H_K_52",
+         ["value"] =           "K",
+         ["seal"] =           "Red",
+         ["enhancement"] =           "Steel",
+         ["name"] =           "K of Hearts",
+         ["edition"] =           "Polychrome"
+        },
+       ["D_K_35"] =         {
+         ["suit"] =           "Diamonds",
+         ["enhancementKey"] =           "m_steel",
+         ["editionKey"] =           "polychrome",
+         ["uuid"] =           "3af18256-9f65-4c16-a09c-2eab365c6503",
+         ["pos"] =           {
+           ["y"] =             1,
+           ["x"] =             0
+          },
+         ["key"] =           "D_K_35",
+         ["value"] =           "K",
+         ["seal"] =           "Red",
+         ["enhancement"] =           "Steel",
+         ["name"] =           "K of Diamonds",
+         ["edition"] =           "Polychrome"
+        },
+       ["H_K_1"] =         {
+         ["suit"] =           "Hearts",
+         ["enhancementKey"] =           "m_steel",
+         ["editionKey"] =           "polychrome",
+         ["uuid"] =           "ef0df9a1-1061-41b2-b617-c5df09552e4b",
+         ["pos"] =           {
+           ["y"] =             1,
+           ["x"] =             0
+          },
+         ["key"] =           "H_K_1",
+         ["value"] =           "K",
+         ["seal"] =           "Red",
+         ["enhancement"] =           "Steel",
+         ["name"] =           "K of Hearts",
+         ["edition"] =           "Polychrome"
+        },
+       ["D_K_53"] =         {
+         ["suit"] =           "Diamonds",
+         ["enhancementKey"] =           "m_steel",
+         ["editionKey"] =           "polychrome",
+         ["uuid"] =           "79f3392e-59a7-42fa-8c7e-16b3aa026d46",
+         ["pos"] =           {
+           ["y"] =             1,
+           ["x"] =             0
+          },
+         ["key"] =           "D_K_53",
+         ["value"] =           "K",
+         ["seal"] =           "Red",
+         ["enhancement"] =           "Steel",
+         ["name"] =           "K of Diamonds",
+         ["edition"] =           "Polychrome"
+        },
+       ["C_K_29"] =         {
+         ["suit"] =           "Clubs",
+         ["enhancementKey"] =           "m_steel",
+         ["editionKey"] =           "polychrome",
+         ["uuid"] =           "ab4bdc5d-2614-4ecd-b912-aa0259ccaf93",
+         ["pos"] =           {
+           ["y"] =             1,
+           ["x"] =             0
+          },
+         ["key"] =           "C_K_29",
+         ["value"] =           "K",
+         ["seal"] =           "Red",
+         ["enhancement"] =           "Steel",
+         ["name"] =           "K of Clubs",
+         ["edition"] =           "Polychrome"
+        },
+       ["C_K_75"] =         {
+         ["suit"] =           "Clubs",
+         ["enhancementKey"] =           "m_steel",
+         ["editionKey"] =           "polychrome",
+         ["uuid"] =           "bc2fb7c9-05a2-46cf-82e1-5dea13ee141b",
+         ["pos"] =           {
+           ["y"] =             1,
+           ["x"] =             0
+          },
+         ["key"] =           "C_K_75",
+         ["value"] =           "K",
+         ["seal"] =           "Red",
+         ["enhancement"] =           "Steel",
+         ["name"] =           "K of Clubs",
+         ["edition"] =           "Polychrome"
+        },
+       ["H_K_60"] =         {
+         ["suit"] =           "Hearts",
+         ["enhancementKey"] =           "m_steel",
+         ["editionKey"] =           "polychrome",
+         ["uuid"] =           "e5f4898e-4510-4ef3-a8f0-4142b3ff0a01",
+         ["pos"] =           {
+           ["y"] =             1,
+           ["x"] =             0
+          },
+         ["key"] =           "H_K_60",
+         ["value"] =           "K",
+         ["seal"] =           "Red",
+         ["enhancement"] =           "Steel",
+         ["name"] =           "K of Hearts",
+         ["edition"] =           "Polychrome"
+        },
+       ["D_K_47"] =         {
+         ["suit"] =           "Diamonds",
+         ["enhancementKey"] =           "m_steel",
+         ["editionKey"] =           "polychrome",
+         ["uuid"] =           "5e4f5160-af60-41a7-bd77-3888aabe94f6",
+         ["pos"] =           {
+           ["y"] =             1,
+           ["x"] =             0
+          },
+         ["key"] =           "D_K_47",
+         ["value"] =           "K",
+         ["seal"] =           "Red",
+         ["enhancement"] =           "Steel",
+         ["name"] =           "K of Diamonds",
+         ["edition"] =           "Polychrome"
+        },
+       ["S_K_2"] =         {
+         ["suit"] =           "Spades",
+         ["enhancementKey"] =           "m_steel",
+         ["editionKey"] =           "polychrome",
+         ["uuid"] =           "1579fd9c-8952-4e59-98a6-40e93e2abc41",
+         ["pos"] =           {
+           ["y"] =             1,
+           ["x"] =             0
+          },
+         ["key"] =           "S_K_2",
+         ["value"] =           "K",
+         ["seal"] =           "Red",
+         ["enhancement"] =           "Steel",
+         ["name"] =           "K of Spades",
+         ["edition"] =           "Polychrome"
+        },
+       ["C_K_42"] =         {
+         ["suit"] =           "Clubs",
+         ["enhancementKey"] =           "m_steel",
+         ["editionKey"] =           "polychrome",
+         ["uuid"] =           "4f9a1662-9def-496a-980b-6db79e931bb7",
+         ["pos"] =           {
+           ["y"] =             1,
+           ["x"] =             0
+          },
+         ["key"] =           "C_K_42",
+         ["value"] =           "K",
+         ["seal"] =           "Red",
+         ["enhancement"] =           "Steel",
+         ["name"] =           "K of Clubs",
+         ["edition"] =           "Polychrome"
+        },
+       ["D_K_5"] =         {
+         ["suit"] =           "Diamonds",
+         ["enhancementKey"] =           "m_steel",
+         ["editionKey"] =           "polychrome",
+         ["uuid"] =           "caa8115a-e2ed-4180-b6b1-740fad525a63",
+         ["pos"] =           {
+           ["y"] =             1,
+           ["x"] =             0
+          },
+         ["key"] =           "D_K_5",
+         ["value"] =           "K",
+         ["seal"] =           "Red",
+         ["enhancement"] =           "Steel",
+         ["name"] =           "K of Diamonds",
+         ["edition"] =           "Polychrome"
+        },
+       ["H_K_45"] =         {
+         ["suit"] =           "Hearts",
+         ["enhancementKey"] =           "m_steel",
+         ["editionKey"] =           "polychrome",
+         ["uuid"] =           "efce61a3-c2ac-4dcf-baab-d0ba0a87d78c",
+         ["pos"] =           {
+           ["y"] =             1,
+           ["x"] =             0
+          },
+         ["key"] =           "H_K_45",
+         ["value"] =           "K",
+         ["seal"] =           "Red",
+         ["enhancement"] =           "Steel",
+         ["name"] =           "K of Hearts",
+         ["edition"] =           "Polychrome"
+        },
+       ["H_K_2"] =         {
+         ["suit"] =           "Hearts",
+         ["enhancementKey"] =           "m_steel",
+         ["editionKey"] =           "polychrome",
+         ["uuid"] =           "c2f81710-f63f-49c2-853d-71ebb8a794ba",
+         ["pos"] =           {
+           ["y"] =             1,
+           ["x"] =             0
+          },
+         ["key"] =           "H_K_2",
+         ["value"] =           "K",
+         ["seal"] =           "Red",
+         ["enhancement"] =           "Steel",
+         ["name"] =           "K of Hearts",
+         ["edition"] =           "Polychrome"
+        },
+       ["D_K_40"] =         {
+         ["suit"] =           "Diamonds",
+         ["enhancementKey"] =           "m_steel",
+         ["editionKey"] =           "polychrome",
+         ["uuid"] =           "a4cc51cf-e3c0-44e6-955a-64ec4e00a954",
+         ["pos"] =           {
+           ["y"] =             1,
+           ["x"] =             0
+          },
+         ["key"] =           "D_K_40",
+         ["value"] =           "K",
+         ["seal"] =           "Red",
+         ["enhancement"] =           "Steel",
+         ["name"] =           "K of Diamonds",
+         ["edition"] =           "Polychrome"
+        },
+       ["S_K_50"] =         {
+         ["suit"] =           "Spades",
+         ["enhancementKey"] =           "m_steel",
+         ["editionKey"] =           "polychrome",
+         ["uuid"] =           "b4520b24-de53-49b1-8afc-35338d25703a",
+         ["pos"] =           {
+           ["y"] =             1,
+           ["x"] =             0
+          },
+         ["key"] =           "S_K_50",
+         ["value"] =           "K",
+         ["seal"] =           "Red",
+         ["enhancement"] =           "Steel",
+         ["name"] =           "K of Spades",
+         ["edition"] =           "Polychrome"
+        },
+       ["S_K_66"] =         {
+         ["suit"] =           "Spades",
+         ["enhancementKey"] =           "m_steel",
+         ["editionKey"] =           "polychrome",
+         ["uuid"] =           "a415ae60-ce70-4163-8058-5db9fde7aeb8",
+         ["pos"] =           {
+           ["y"] =             1,
+           ["x"] =             0
+          },
+         ["key"] =           "S_K_66",
+         ["value"] =           "K",
+         ["seal"] =           "Red",
+         ["enhancement"] =           "Steel",
+         ["name"] =           "K of Spades",
+         ["edition"] =           "Polychrome"
+        },
+       ["C_K_61"] =         {
+         ["suit"] =           "Clubs",
+         ["enhancementKey"] =           "m_steel",
+         ["editionKey"] =           "polychrome",
+         ["uuid"] =           "0e5199a7-755c-4fcb-a39b-01bde6ee7451",
+         ["pos"] =           {
+           ["y"] =             1,
+           ["x"] =             0
+          },
+         ["key"] =           "C_K_61",
+         ["value"] =           "K",
+         ["seal"] =           "Red",
+         ["enhancement"] =           "Steel",
+         ["name"] =           "K of Clubs",
+         ["edition"] =           "Polychrome"
+        },
+       ["C_K_28"] =         {
+         ["suit"] =           "Clubs",
+         ["enhancementKey"] =           "m_steel",
+         ["editionKey"] =           "polychrome",
+         ["uuid"] =           "a4f6d36a-7ff8-4483-9726-1d05848c80be",
+         ["pos"] =           {
+           ["y"] =             1,
+           ["x"] =             0
+          },
+         ["key"] =           "C_K_28",
+         ["value"] =           "K",
+         ["seal"] =           "Red",
+         ["enhancement"] =           "Steel",
+         ["name"] =           "K of Clubs",
+         ["edition"] =           "Polychrome"
+        },
+       ["H_K_49"] =         {
+         ["suit"] =           "Hearts",
+         ["enhancementKey"] =           "m_steel",
+         ["editionKey"] =           "polychrome",
+         ["uuid"] =           "79318ead-976c-484d-a615-a9bd2461c827",
+         ["pos"] =           {
+           ["y"] =             1,
+           ["x"] =             0
+          },
+         ["key"] =           "H_K_49",
+         ["value"] =           "K",
+         ["seal"] =           "Red",
+         ["enhancement"] =           "Steel",
+         ["name"] =           "K of Hearts",
+         ["edition"] =           "Polychrome"
+        },
+       ["D_K_41"] =         {
+         ["suit"] =           "Diamonds",
+         ["enhancementKey"] =           "m_steel",
+         ["editionKey"] =           "polychrome",
+         ["uuid"] =           "abf049ff-ee5e-43d0-8e59-c01042b53de7",
+         ["pos"] =           {
+           ["y"] =             1,
+           ["x"] =             0
+          },
+         ["key"] =           "D_K_41",
+         ["value"] =           "K",
+         ["seal"] =           "Red",
+         ["enhancement"] =           "Steel",
+         ["name"] =           "K of Diamonds",
+         ["edition"] =           "Polychrome"
+        },
+       ["C_K_3"] =         {
+         ["suit"] =           "Clubs",
+         ["enhancementKey"] =           "m_steel",
+         ["editionKey"] =           "polychrome",
+         ["uuid"] =           "53a7eaaa-4424-46c6-9e6d-c543cb020bdd",
+         ["pos"] =           {
+           ["y"] =             1,
+           ["x"] =             0
+          },
+         ["key"] =           "C_K_3",
+         ["value"] =           "K",
+         ["seal"] =           "Red",
+         ["enhancement"] =           "Steel",
+         ["name"] =           "K of Clubs",
+         ["edition"] =           "Polychrome"
+        },
+       ["H_K_68"] =         {
+         ["suit"] =           "Hearts",
+         ["enhancementKey"] =           "m_steel",
+         ["editionKey"] =           "polychrome",
+         ["uuid"] =           "0053685b-b5c5-4b19-801c-e74a59bfe118",
+         ["pos"] =           {
+           ["y"] =             1,
+           ["x"] =             0
+          },
+         ["key"] =           "H_K_68",
+         ["value"] =           "K",
+         ["seal"] =           "Red",
+         ["enhancement"] =           "Steel",
+         ["name"] =           "K of Hearts",
+         ["edition"] =           "Polychrome"
+        },
+       ["D_K_63"] =         {
+         ["suit"] =           "Diamonds",
+         ["enhancementKey"] =           "m_steel",
+         ["editionKey"] =           "polychrome",
+         ["uuid"] =           "aa9223a3-5985-47b1-8456-98cc034f137a",
+         ["pos"] =           {
+           ["y"] =             1,
+           ["x"] =             0
+          },
+         ["key"] =           "D_K_63",
+         ["value"] =           "K",
+         ["seal"] =           "Red",
+         ["enhancement"] =           "Steel",
+         ["name"] =           "K of Diamonds",
+         ["edition"] =           "Polychrome"
+        },
+       ["H_K_47"] =         {
+         ["suit"] =           "Hearts",
+         ["enhancementKey"] =           "m_steel",
+         ["editionKey"] =           "polychrome",
+         ["uuid"] =           "62a0a8ee-a112-4df9-ac11-fe0eaeb8b710",
+         ["pos"] =           {
+           ["y"] =             1,
+           ["x"] =             0
+          },
+         ["key"] =           "H_K_47",
+         ["value"] =           "K",
+         ["seal"] =           "Red",
+         ["enhancement"] =           "Steel",
+         ["name"] =           "K of Hearts",
+         ["edition"] =           "Polychrome"
+        },
+       ["H_K_73"] =         {
+         ["suit"] =           "Hearts",
+         ["enhancementKey"] =           "m_steel",
+         ["editionKey"] =           "polychrome",
+         ["uuid"] =           "88297cd1-5ace-4c7e-88e4-57479e11d902",
+         ["pos"] =           {
+           ["y"] =             1,
+           ["x"] =             0
+          },
+         ["key"] =           "H_K_73",
+         ["value"] =           "K",
+         ["seal"] =           "Red",
+         ["enhancement"] =           "Steel",
+         ["name"] =           "K of Hearts",
+         ["edition"] =           "Polychrome"
+        },
+       ["D_K_42"] =         {
+         ["suit"] =           "Diamonds",
+         ["enhancementKey"] =           "m_steel",
+         ["editionKey"] =           "polychrome",
+         ["uuid"] =           "d6d5ac54-227d-48e5-8373-e9f874795dd5",
+         ["pos"] =           {
+           ["y"] =             1,
+           ["x"] =             0
+          },
+         ["key"] =           "D_K_42",
+         ["value"] =           "K",
+         ["seal"] =           "Red",
+         ["enhancement"] =           "Steel",
+         ["name"] =           "K of Diamonds",
+         ["edition"] =           "Polychrome"
+        },
+       ["S_K_73"] =         {
+         ["suit"] =           "Spades",
+         ["enhancementKey"] =           "m_steel",
+         ["editionKey"] =           "polychrome",
+         ["uuid"] =           "b25b2201-bf54-4026-8073-852e742edda5",
+         ["pos"] =           {
+           ["y"] =             1,
+           ["x"] =             0
+          },
+         ["key"] =           "S_K_73",
+         ["value"] =           "K",
+         ["seal"] =           "Red",
+         ["enhancement"] =           "Steel",
+         ["name"] =           "K of Spades",
+         ["edition"] =           "Polychrome"
+        },
+       ["D_K_73"] =         {
+         ["suit"] =           "Diamonds",
+         ["enhancementKey"] =           "m_steel",
+         ["editionKey"] =           "polychrome",
+         ["uuid"] =           "8ef33743-eefd-4b6c-8c3b-7ea568f29bd6",
+         ["pos"] =           {
+           ["y"] =             1,
+           ["x"] =             0
+          },
+         ["key"] =           "D_K_73",
+         ["value"] =           "K",
+         ["seal"] =           "Red",
+         ["enhancement"] =           "Steel",
+         ["name"] =           "K of Diamonds",
+         ["edition"] =           "Polychrome"
+        },
+       ["H_K_54"] =         {
+         ["suit"] =           "Hearts",
+         ["enhancementKey"] =           "m_steel",
+         ["editionKey"] =           "polychrome",
+         ["uuid"] =           "4d498274-e4e5-499f-a867-f58785342ab8",
+         ["pos"] =           {
+           ["y"] =             1,
+           ["x"] =             0
+          },
+         ["key"] =           "H_K_54",
+         ["value"] =           "K",
+         ["seal"] =           "Red",
+         ["enhancement"] =           "Steel",
+         ["name"] =           "K of Hearts",
+         ["edition"] =           "Polychrome"
+        },
+       ["D_K_7"] =         {
+         ["suit"] =           "Diamonds",
+         ["enhancementKey"] =           "m_steel",
+         ["editionKey"] =           "polychrome",
+         ["uuid"] =           "02c24d4b-78f0-46ee-ab19-f4575422c0e3",
+         ["pos"] =           {
+           ["y"] =             1,
+           ["x"] =             0
+          },
+         ["key"] =           "D_K_7",
+         ["value"] =           "K",
+         ["seal"] =           "Red",
+         ["enhancement"] =           "Steel",
+         ["name"] =           "K of Diamonds",
+         ["edition"] =           "Polychrome"
+        },
+       ["D_K_33"] =         {
+         ["suit"] =           "Diamonds",
+         ["enhancementKey"] =           "m_steel",
+         ["editionKey"] =           "polychrome",
+         ["uuid"] =           "5eca9957-7e20-450e-9563-5d0e0a2025e9",
+         ["pos"] =           {
+           ["y"] =             1,
+           ["x"] =             0
+          },
+         ["key"] =           "D_K_33",
+         ["value"] =           "K",
+         ["seal"] =           "Red",
+         ["enhancement"] =           "Steel",
+         ["name"] =           "K of Diamonds",
+         ["edition"] =           "Polychrome"
+        },
+       ["S_K_44"] =         {
+         ["suit"] =           "Spades",
+         ["enhancementKey"] =           "m_steel",
+         ["editionKey"] =           "polychrome",
+         ["uuid"] =           "a0a061b9-d723-4230-9886-51a4524a7b11",
+         ["pos"] =           {
+           ["y"] =             1,
+           ["x"] =             0
+          },
+         ["key"] =           "S_K_44",
+         ["value"] =           "K",
+         ["seal"] =           "Red",
+         ["enhancement"] =           "Steel",
+         ["name"] =           "K of Spades",
+         ["edition"] =           "Polychrome"
+        },
+       ["C_K_33"] =         {
+         ["suit"] =           "Clubs",
+         ["enhancementKey"] =           "m_steel",
+         ["editionKey"] =           "polychrome",
+         ["uuid"] =           "b0cd630a-3c6a-4256-b6fa-856018ee5fb2",
+         ["pos"] =           {
+           ["y"] =             1,
+           ["x"] =             0
+          },
+         ["key"] =           "C_K_33",
+         ["value"] =           "K",
+         ["seal"] =           "Red",
+         ["enhancement"] =           "Steel",
+         ["name"] =           "K of Clubs",
+         ["edition"] =           "Polychrome"
+        },
+       ["S_K_59"] =         {
+         ["suit"] =           "Spades",
+         ["enhancementKey"] =           "m_steel",
+         ["editionKey"] =           "polychrome",
+         ["uuid"] =           "88dfbc93-dee0-4838-9365-293a2703bbf8",
+         ["pos"] =           {
+           ["y"] =             1,
+           ["x"] =             0
+          },
+         ["key"] =           "S_K_59",
+         ["value"] =           "K",
+         ["seal"] =           "Red",
+         ["enhancement"] =           "Steel",
+         ["name"] =           "K of Spades",
+         ["edition"] =           "Polychrome"
+        },
+       ["C_K_56"] =         {
+         ["suit"] =           "Clubs",
+         ["enhancementKey"] =           "m_steel",
+         ["editionKey"] =           "polychrome",
+         ["uuid"] =           "d58209ad-ad6a-4f35-9bd5-a706f0d1182b",
+         ["pos"] =           {
+           ["y"] =             1,
+           ["x"] =             0
+          },
+         ["key"] =           "C_K_56",
+         ["value"] =           "K",
+         ["seal"] =           "Red",
+         ["enhancement"] =           "Steel",
+         ["name"] =           "K of Clubs",
+         ["edition"] =           "Polychrome"
+        },
+       ["S_K_62"] =         {
+         ["suit"] =           "Spades",
+         ["enhancementKey"] =           "m_steel",
+         ["editionKey"] =           "polychrome",
+         ["uuid"] =           "38856294-149d-4a20-9983-246639546f76",
+         ["pos"] =           {
+           ["y"] =             1,
+           ["x"] =             0
+          },
+         ["key"] =           "S_K_62",
+         ["value"] =           "K",
+         ["seal"] =           "Red",
+         ["enhancement"] =           "Steel",
+         ["name"] =           "K of Spades",
+         ["edition"] =           "Polychrome"
+        },
+       ["D_K_32"] =         {
+         ["suit"] =           "Diamonds",
+         ["enhancementKey"] =           "m_steel",
+         ["editionKey"] =           "polychrome",
+         ["uuid"] =           "d513b3a3-0821-442e-9f37-65ee35e7d48c",
+         ["pos"] =           {
+           ["y"] =             1,
+           ["x"] =             0
+          },
+         ["key"] =           "D_K_32",
+         ["value"] =           "K",
+         ["seal"] =           "Red",
+         ["enhancement"] =           "Steel",
+         ["name"] =           "K of Diamonds",
+         ["edition"] =           "Polychrome"
+        },
+       ["S_K"] =         {
+         ["suit"] =           "Spades",
+         ["enhancementKey"] =           "m_steel",
+         ["editionKey"] =           "polychrome",
+         ["uuid"] =           "813b9729-1736-4e03-81ba-f5794130952f",
+         ["pos"] =           {
+           ["y"] =             1,
+           ["x"] =             0
+          },
+         ["key"] =           "S_K",
+         ["value"] =           "K",
+         ["seal"] =           "Red",
+         ["enhancement"] =           "Steel",
+         ["name"] =           "K of Spades",
+         ["edition"] =           "Polychrome"
+        },
+       ["C_K_32"] =         {
+         ["suit"] =           "Clubs",
+         ["enhancementKey"] =           "m_steel",
+         ["editionKey"] =           "polychrome",
+         ["uuid"] =           "cacbed9d-7a44-43f2-b503-e1dfca3e63bf",
+         ["pos"] =           {
+           ["y"] =             1,
+           ["x"] =             0
+          },
+         ["key"] =           "C_K_32",
+         ["value"] =           "K",
+         ["seal"] =           "Red",
+         ["enhancement"] =           "Steel",
+         ["name"] =           "K of Clubs",
+         ["edition"] =           "Polychrome"
+        },
+       ["H_K_28"] =         {
+         ["suit"] =           "Hearts",
+         ["enhancementKey"] =           "m_steel",
+         ["editionKey"] =           "polychrome",
+         ["uuid"] =           "ea927f6d-92b2-4571-9b2a-e12be5f3aa33",
+         ["pos"] =           {
+           ["y"] =             1,
+           ["x"] =             0
+          },
+         ["key"] =           "H_K_28",
+         ["value"] =           "K",
+         ["seal"] =           "Red",
+         ["enhancement"] =           "Steel",
+         ["name"] =           "K of Hearts",
+         ["edition"] =           "Polychrome"
+        },
+       ["C_K_51"] =         {
+         ["suit"] =           "Clubs",
+         ["enhancementKey"] =           "m_steel",
+         ["editionKey"] =           "polychrome",
+         ["uuid"] =           "c492e668-efda-4ec9-ab6e-1bcc136744fd",
+         ["pos"] =           {
+           ["y"] =             1,
+           ["x"] =             0
+          },
+         ["key"] =           "C_K_51",
+         ["value"] =           "K",
+         ["seal"] =           "Red",
+         ["enhancement"] =           "Steel",
+         ["name"] =           "K of Clubs",
+         ["edition"] =           "Polychrome"
+        },
+       ["H_K_71"] =         {
+         ["suit"] =           "Hearts",
+         ["enhancementKey"] =           "m_steel",
+         ["editionKey"] =           "polychrome",
+         ["uuid"] =           "fb0ca848-98f0-44b9-bc0b-94c68a775116",
+         ["pos"] =           {
+           ["y"] =             1,
+           ["x"] =             0
+          },
+         ["key"] =           "H_K_71",
+         ["value"] =           "K",
+         ["seal"] =           "Red",
+         ["enhancement"] =           "Steel",
+         ["name"] =           "K of Hearts",
+         ["edition"] =           "Polychrome"
+        },
+       ["D_K_31"] =         {
+         ["suit"] =           "Diamonds",
+         ["enhancementKey"] =           "m_steel",
+         ["editionKey"] =           "polychrome",
+         ["uuid"] =           "b7317b08-2306-47d5-b25e-dc3c1fb1bb12",
+         ["pos"] =           {
+           ["y"] =             1,
+           ["x"] =             0
+          },
+         ["key"] =           "D_K_31",
+         ["value"] =           "K",
+         ["seal"] =           "Red",
+         ["enhancement"] =           "Steel",
+         ["name"] =           "K of Diamonds",
+         ["edition"] =           "Polychrome"
+        },
+       ["D_K_60"] =         {
+         ["suit"] =           "Diamonds",
+         ["enhancementKey"] =           "m_steel",
+         ["editionKey"] =           "polychrome",
+         ["uuid"] =           "53bc00f6-799b-44c1-9e56-6500fcc544a9",
+         ["pos"] =           {
+           ["y"] =             1,
+           ["x"] =             0
+          },
+         ["key"] =           "D_K_60",
+         ["value"] =           "K",
+         ["seal"] =           "Red",
+         ["enhancement"] =           "Steel",
+         ["name"] =           "K of Diamonds",
+         ["edition"] =           "Polychrome"
+        },
+       ["S_K_49"] =         {
+         ["suit"] =           "Spades",
+         ["enhancementKey"] =           "m_steel",
+         ["editionKey"] =           "polychrome",
+         ["uuid"] =           "730a4c5a-d3ec-45c7-a20b-7ff7ce9403ef",
+         ["pos"] =           {
+           ["y"] =             1,
+           ["x"] =             0
+          },
+         ["key"] =           "S_K_49",
+         ["value"] =           "K",
+         ["seal"] =           "Red",
+         ["enhancement"] =           "Steel",
+         ["name"] =           "K of Spades",
+         ["edition"] =           "Polychrome"
+        },
+       ["C_K_7"] =         {
+         ["suit"] =           "Clubs",
+         ["enhancementKey"] =           "m_steel",
+         ["editionKey"] =           "polychrome",
+         ["uuid"] =           "74bab345-98b7-46aa-bf77-408f27f42b94",
+         ["pos"] =           {
+           ["y"] =             1,
+           ["x"] =             0
+          },
+         ["key"] =           "C_K_7",
+         ["value"] =           "K",
+         ["seal"] =           "Red",
+         ["enhancement"] =           "Steel",
+         ["name"] =           "K of Clubs",
+         ["edition"] =           "Polychrome"
+        },
+       ["C_K_50"] =         {
+         ["suit"] =           "Clubs",
+         ["enhancementKey"] =           "m_steel",
+         ["editionKey"] =           "polychrome",
+         ["uuid"] =           "c95ffcac-37ff-40a2-89e0-50f60cf5cd61",
+         ["pos"] =           {
+           ["y"] =             1,
+           ["x"] =             0
+          },
+         ["key"] =           "C_K_50",
+         ["value"] =           "K",
+         ["seal"] =           "Red",
+         ["enhancement"] =           "Steel",
+         ["name"] =           "K of Clubs",
+         ["edition"] =           "Polychrome"
+        },
+       ["C_K_71"] =         {
+         ["suit"] =           "Clubs",
+         ["enhancementKey"] =           "m_steel",
+         ["editionKey"] =           "polychrome",
+         ["uuid"] =           "539fbcf9-d82e-493f-8bd8-56455caff757",
+         ["pos"] =           {
+           ["y"] =             1,
+           ["x"] =             0
+          },
+         ["key"] =           "C_K_71",
+         ["value"] =           "K",
+         ["seal"] =           "Red",
+         ["enhancement"] =           "Steel",
+         ["name"] =           "K of Clubs",
+         ["edition"] =           "Polychrome"
+        },
+       ["S_K_6"] =         {
+         ["suit"] =           "Spades",
+         ["enhancementKey"] =           "m_steel",
+         ["editionKey"] =           "polychrome",
+         ["uuid"] =           "1fb6c7e6-d244-45af-9699-385630022549",
+         ["pos"] =           {
+           ["y"] =             1,
+           ["x"] =             0
+          },
+         ["key"] =           "S_K_6",
+         ["value"] =           "K",
+         ["seal"] =           "Red",
+         ["enhancement"] =           "Steel",
+         ["name"] =           "K of Spades",
+         ["edition"] =           "Polychrome"
+        },
+       ["D_K_9"] =         {
+         ["suit"] =           "Diamonds",
+         ["enhancementKey"] =           "m_steel",
+         ["editionKey"] =           "polychrome",
+         ["uuid"] =           "cc01e4b5-a2bf-4ea9-8a8e-35f31ac61278",
+         ["pos"] =           {
+           ["y"] =             1,
+           ["x"] =             0
+          },
+         ["key"] =           "D_K_9",
+         ["value"] =           "K",
+         ["seal"] =           "Red",
+         ["enhancement"] =           "Steel",
+         ["name"] =           "K of Diamonds",
+         ["edition"] =           "Polychrome"
+        },
+       ["C_K_6"] =         {
+         ["suit"] =           "Clubs",
+         ["enhancementKey"] =           "m_steel",
+         ["editionKey"] =           "polychrome",
+         ["uuid"] =           "60511f7f-766f-4c44-bd04-f4697fdae141",
+         ["pos"] =           {
+           ["y"] =             1,
+           ["x"] =             0
+          },
+         ["key"] =           "C_K_6",
+         ["value"] =           "K",
+         ["seal"] =           "Red",
+         ["enhancement"] =           "Steel",
+         ["name"] =           "K of Clubs",
+         ["edition"] =           "Polychrome"
+        },
+       ["C_K_70"] =         {
+         ["suit"] =           "Clubs",
+         ["enhancementKey"] =           "m_steel",
+         ["editionKey"] =           "polychrome",
+         ["uuid"] =           "dae8becb-2848-4b60-8093-628dca4c5752",
+         ["pos"] =           {
+           ["y"] =             1,
+           ["x"] =             0
+          },
+         ["key"] =           "C_K_70",
+         ["value"] =           "K",
+         ["seal"] =           "Red",
+         ["enhancement"] =           "Steel",
+         ["name"] =           "K of Clubs",
+         ["edition"] =           "Polychrome"
+        },
+       ["H_K_6"] =         {
+         ["suit"] =           "Hearts",
+         ["enhancementKey"] =           "m_steel",
+         ["editionKey"] =           "polychrome",
+         ["uuid"] =           "a5371d03-7e33-4355-b00b-17980da94e97",
+         ["pos"] =           {
+           ["y"] =             1,
+           ["x"] =             0
+          },
+         ["key"] =           "H_K_6",
+         ["value"] =           "K",
+         ["seal"] =           "Red",
+         ["enhancement"] =           "Steel",
+         ["name"] =           "K of Hearts",
+         ["edition"] =           "Polychrome"
+        },
+       ["C_K"] =         {
+         ["suit"] =           "Clubs",
+         ["enhancementKey"] =           "m_steel",
+         ["editionKey"] =           "polychrome",
+         ["uuid"] =           "ec859bdb-15a2-46ed-a491-31bedd47d196",
+         ["pos"] =           {
+           ["y"] =             1,
+           ["x"] =             0
+          },
+         ["key"] =           "C_K",
+         ["value"] =           "K",
+         ["seal"] =           "Red",
+         ["enhancement"] =           "Steel",
+         ["name"] =           "K of Clubs",
+         ["edition"] =           "Polychrome"
+        },
+       ["H_K_3"] =         {
+         ["suit"] =           "Hearts",
+         ["enhancementKey"] =           "m_steel",
+         ["editionKey"] =           "polychrome",
+         ["uuid"] =           "cc8716c6-ba6c-4629-b976-59a5cd91bb55",
+         ["pos"] =           {
+           ["y"] =             1,
+           ["x"] =             0
+          },
+         ["key"] =           "H_K_3",
+         ["value"] =           "K",
+         ["seal"] =           "Red",
+         ["enhancement"] =           "Steel",
+         ["name"] =           "K of Hearts",
+         ["edition"] =           "Polychrome"
+        },
+       ["C_K_8"] =         {
+         ["suit"] =           "Clubs",
+         ["enhancementKey"] =           "m_steel",
+         ["editionKey"] =           "polychrome",
+         ["uuid"] =           "9c481d60-87b5-41d9-a1b1-e704304fee00",
+         ["pos"] =           {
+           ["y"] =             1,
+           ["x"] =             0
+          },
+         ["key"] =           "C_K_8",
+         ["value"] =           "K",
+         ["seal"] =           "Red",
+         ["enhancement"] =           "Steel",
+         ["name"] =           "K of Clubs",
+         ["edition"] =           "Polychrome"
+        },
+       ["S_K_69"] =         {
+         ["suit"] =           "Spades",
+         ["enhancementKey"] =           "m_steel",
+         ["editionKey"] =           "polychrome",
+         ["uuid"] =           "d00b793d-1a4a-4b84-b5aa-7b85592ffe8d",
+         ["pos"] =           {
+           ["y"] =             1,
+           ["x"] =             0
+          },
+         ["key"] =           "S_K_69",
+         ["value"] =           "K",
+         ["seal"] =           "Red",
+         ["enhancement"] =           "Steel",
+         ["name"] =           "K of Spades",
+         ["edition"] =           "Polychrome"
+        },
+       ["C_K_69"] =         {
+         ["suit"] =           "Clubs",
+         ["enhancementKey"] =           "m_steel",
+         ["editionKey"] =           "polychrome",
+         ["uuid"] =           "1bdee5a3-eedf-4639-a763-11388a572793",
+         ["pos"] =           {
+           ["y"] =             1,
+           ["x"] =             0
+          },
+         ["key"] =           "C_K_69",
+         ["value"] =           "K",
+         ["seal"] =           "Red",
+         ["enhancement"] =           "Steel",
+         ["name"] =           "K of Clubs",
+         ["edition"] =           "Polychrome"
+        },
+       ["H_K_62"] =         {
+         ["suit"] =           "Hearts",
+         ["enhancementKey"] =           "m_steel",
+         ["editionKey"] =           "polychrome",
+         ["uuid"] =           "2e610491-aa0e-4489-a2e1-02e505439e98",
+         ["pos"] =           {
+           ["y"] =             1,
+           ["x"] =             0
+          },
+         ["key"] =           "H_K_62",
+         ["value"] =           "K",
+         ["seal"] =           "Red",
+         ["enhancement"] =           "Steel",
+         ["name"] =           "K of Hearts",
+         ["edition"] =           "Polychrome"
+        },
+       ["H_K_69"] =         {
+         ["suit"] =           "Hearts",
+         ["enhancementKey"] =           "m_steel",
+         ["editionKey"] =           "polychrome",
+         ["uuid"] =           "0d490792-6459-4ca9-ac95-248c03efbf1a",
+         ["pos"] =           {
+           ["y"] =             1,
+           ["x"] =             0
+          },
+         ["key"] =           "H_K_69",
+         ["value"] =           "K",
+         ["seal"] =           "Red",
+         ["enhancement"] =           "Steel",
+         ["name"] =           "K of Hearts",
+         ["edition"] =           "Polychrome"
+        },
+       ["S_K_4"] =         {
+         ["suit"] =           "Spades",
+         ["enhancementKey"] =           "m_steel",
+         ["editionKey"] =           "polychrome",
+         ["uuid"] =           "a9c9863a-227a-412f-930c-303358a87070",
+         ["pos"] =           {
+           ["y"] =             1,
+           ["x"] =             0
+          },
+         ["key"] =           "S_K_4",
+         ["value"] =           "K",
+         ["seal"] =           "Red",
+         ["enhancement"] =           "Steel",
+         ["name"] =           "K of Spades",
+         ["edition"] =           "Polychrome"
+        },
+       ["D_K_74"] =         {
+         ["suit"] =           "Diamonds",
+         ["enhancementKey"] =           "m_steel",
+         ["editionKey"] =           "polychrome",
+         ["uuid"] =           "d4528247-b97e-4b6c-8cd4-ebc9c955f11c",
+         ["pos"] =           {
+           ["y"] =             1,
+           ["x"] =             0
+          },
+         ["key"] =           "D_K_74",
+         ["value"] =           "K",
+         ["seal"] =           "Red",
+         ["enhancement"] =           "Steel",
+         ["name"] =           "K of Diamonds",
+         ["edition"] =           "Polychrome"
+        },
+       ["S_K_68"] =         {
+         ["suit"] =           "Spades",
+         ["enhancementKey"] =           "m_steel",
+         ["editionKey"] =           "polychrome",
+         ["uuid"] =           "e35935a3-d4c5-4b01-9bae-2692af71ff1b",
+         ["pos"] =           {
+           ["y"] =             1,
+           ["x"] =             0
+          },
+         ["key"] =           "S_K_68",
+         ["value"] =           "K",
+         ["seal"] =           "Red",
+         ["enhancement"] =           "Steel",
+         ["name"] =           "K of Spades",
+         ["edition"] =           "Polychrome"
+        },
+       ["S_K_67"] =         {
+         ["suit"] =           "Spades",
+         ["enhancementKey"] =           "m_steel",
+         ["editionKey"] =           "polychrome",
+         ["uuid"] =           "e2c899a8-7040-400c-9d44-c643618ef0e4",
+         ["pos"] =           {
+           ["y"] =             1,
+           ["x"] =             0
+          },
+         ["key"] =           "S_K_67",
+         ["value"] =           "K",
+         ["seal"] =           "Red",
+         ["enhancement"] =           "Steel",
+         ["name"] =           "K of Spades",
+         ["edition"] =           "Polychrome"
+        },
+       ["H_K"] =         {
+         ["suit"] =           "Hearts",
+         ["enhancementKey"] =           "m_steel",
+         ["editionKey"] =           "polychrome",
+         ["uuid"] =           "8bccd336-33c0-48b3-b6ad-8dd69120f52a",
+         ["pos"] =           {
+           ["y"] =             1,
+           ["x"] =             0
+          },
+         ["key"] =           "H_K",
+         ["value"] =           "K",
+         ["seal"] =           "Red",
+         ["enhancement"] =           "Steel",
+         ["name"] =           "K of Hearts",
+         ["edition"] =           "Polychrome"
+        },
+       ["S_K_75"] =         {
+         ["suit"] =           "Spades",
+         ["enhancementKey"] =           "m_steel",
+         ["editionKey"] =           "polychrome",
+         ["uuid"] =           "87fbe2f2-5e0d-44e9-b967-14ac9efc6ca8",
+         ["pos"] =           {
+           ["y"] =             1,
+           ["x"] =             0
+          },
+         ["key"] =           "S_K_75",
+         ["value"] =           "K",
+         ["seal"] =           "Red",
+         ["enhancement"] =           "Steel",
+         ["name"] =           "K of Spades",
+         ["edition"] =           "Polychrome"
+        },
+       ["D_K_49"] =         {
+         ["suit"] =           "Diamonds",
+         ["enhancementKey"] =           "m_steel",
+         ["editionKey"] =           "polychrome",
+         ["uuid"] =           "f07fb438-f464-480d-afd0-226a84500a45",
+         ["pos"] =           {
+           ["y"] =             1,
+           ["x"] =             0
+          },
+         ["key"] =           "D_K_49",
+         ["value"] =           "K",
+         ["seal"] =           "Red",
+         ["enhancement"] =           "Steel",
+         ["name"] =           "K of Diamonds",
+         ["edition"] =           "Polychrome"
+        },
+       ["S_K_35"] =         {
+         ["suit"] =           "Spades",
+         ["enhancementKey"] =           "m_steel",
+         ["editionKey"] =           "polychrome",
+         ["uuid"] =           "b26c80fa-fdc5-4418-b524-01ee6ce849ee",
+         ["pos"] =           {
+           ["y"] =             1,
+           ["x"] =             0
+          },
+         ["key"] =           "S_K_35",
+         ["value"] =           "K",
+         ["seal"] =           "Red",
+         ["enhancement"] =           "Steel",
+         ["name"] =           "K of Spades",
+         ["edition"] =           "Polychrome"
+        },
+       ["D_K_65"] =         {
+         ["suit"] =           "Diamonds",
+         ["enhancementKey"] =           "m_steel",
+         ["editionKey"] =           "polychrome",
+         ["uuid"] =           "44bbf3cf-4d76-4d5a-a718-657dada2c77a",
+         ["pos"] =           {
+           ["y"] =             1,
+           ["x"] =             0
+          },
+         ["key"] =           "D_K_65",
+         ["value"] =           "K",
+         ["seal"] =           "Red",
+         ["enhancement"] =           "Steel",
+         ["name"] =           "K of Diamonds",
+         ["edition"] =           "Polychrome"
+        },
+       ["D_K_64"] =         {
+         ["suit"] =           "Diamonds",
+         ["enhancementKey"] =           "m_steel",
+         ["editionKey"] =           "polychrome",
+         ["uuid"] =           "8e925066-ea60-4c2c-87cc-ad91db839020",
+         ["pos"] =           {
+           ["y"] =             1,
+           ["x"] =             0
+          },
+         ["key"] =           "D_K_64",
+         ["value"] =           "K",
+         ["seal"] =           "Red",
+         ["enhancement"] =           "Steel",
+         ["name"] =           "K of Diamonds",
+         ["edition"] =           "Polychrome"
+        },
+       ["S_K_5"] =         {
+         ["suit"] =           "Spades",
+         ["enhancementKey"] =           "m_steel",
+         ["editionKey"] =           "polychrome",
+         ["uuid"] =           "392fe9a7-247f-4bf9-a30e-6c2ed918b651",
+         ["pos"] =           {
+           ["y"] =             1,
+           ["x"] =             0
+          },
+         ["key"] =           "S_K_5",
+         ["value"] =           "K",
+         ["seal"] =           "Red",
+         ["enhancement"] =           "Steel",
+         ["name"] =           "K of Spades",
+         ["edition"] =           "Polychrome"
+        },
+       ["S_K_74"] =         {
+         ["suit"] =           "Spades",
+         ["enhancementKey"] =           "m_steel",
+         ["editionKey"] =           "polychrome",
+         ["uuid"] =           "efb319e2-d562-4115-961e-3ba5bd13fd43",
+         ["pos"] =           {
+           ["y"] =             1,
+           ["x"] =             0
+          },
+         ["key"] =           "S_K_74",
+         ["value"] =           "K",
+         ["seal"] =           "Red",
+         ["enhancement"] =           "Steel",
+         ["name"] =           "K of Spades",
+         ["edition"] =           "Polychrome"
+        },
+       ["H_K_63"] =         {
+         ["suit"] =           "Hearts",
+         ["enhancementKey"] =           "m_steel",
+         ["editionKey"] =           "polychrome",
+         ["uuid"] =           "60dd0115-3590-4fd5-a3fa-092cf2d4b12b",
+         ["pos"] =           {
+           ["y"] =             1,
+           ["x"] =             0
+          },
+         ["key"] =           "H_K_63",
+         ["value"] =           "K",
+         ["seal"] =           "Red",
+         ["enhancement"] =           "Steel",
+         ["name"] =           "K of Hearts",
+         ["edition"] =           "Polychrome"
+        },
+       ["D_K_72"] =         {
+         ["suit"] =           "Diamonds",
+         ["enhancementKey"] =           "m_steel",
+         ["editionKey"] =           "polychrome",
+         ["uuid"] =           "792f9f35-8504-4cf3-8a45-cf5981f83439",
+         ["pos"] =           {
+           ["y"] =             1,
+           ["x"] =             0
+          },
+         ["key"] =           "D_K_72",
+         ["value"] =           "K",
+         ["seal"] =           "Red",
+         ["enhancement"] =           "Steel",
+         ["name"] =           "K of Diamonds",
+         ["edition"] =           "Polychrome"
+        },
+       ["D_K_62"] =         {
+         ["suit"] =           "Diamonds",
+         ["enhancementKey"] =           "m_steel",
+         ["editionKey"] =           "polychrome",
+         ["uuid"] =           "1f59833b-f9bc-4f3e-a3e3-1d551b3cc112",
+         ["pos"] =           {
+           ["y"] =             1,
+           ["x"] =             0
+          },
+         ["key"] =           "D_K_62",
+         ["value"] =           "K",
+         ["seal"] =           "Red",
+         ["enhancement"] =           "Steel",
+         ["name"] =           "K of Diamonds",
+         ["edition"] =           "Polychrome"
+        },
+       ["D_K_61"] =         {
+         ["suit"] =           "Diamonds",
+         ["enhancementKey"] =           "m_steel",
+         ["editionKey"] =           "polychrome",
+         ["uuid"] =           "700c670c-8dc2-48e6-a596-f8d63f5a7377",
+         ["pos"] =           {
+           ["y"] =             1,
+           ["x"] =             0
+          },
+         ["key"] =           "D_K_61",
+         ["value"] =           "K",
+         ["seal"] =           "Red",
+         ["enhancement"] =           "Steel",
+         ["name"] =           "K of Diamonds",
+         ["edition"] =           "Polychrome"
+        },
+       ["D_K_2"] =         {
+         ["suit"] =           "Diamonds",
+         ["enhancementKey"] =           "m_steel",
+         ["editionKey"] =           "polychrome",
+         ["uuid"] =           "0ecfef00-3f96-4ee0-aa7f-0b3bea03c67f",
+         ["pos"] =           {
+           ["y"] =             1,
+           ["x"] =             0
+          },
+         ["key"] =           "D_K_2",
+         ["value"] =           "K",
+         ["seal"] =           "Red",
+         ["enhancement"] =           "Steel",
+         ["name"] =           "K of Diamonds",
+         ["edition"] =           "Polychrome"
+        },
+       ["H_K_74"] =         {
+         ["suit"] =           "Hearts",
+         ["enhancementKey"] =           "m_steel",
+         ["editionKey"] =           "polychrome",
+         ["uuid"] =           "ced4e068-0f8c-45f4-9531-a4b100e130cb",
+         ["pos"] =           {
+           ["y"] =             1,
+           ["x"] =             0
+          },
+         ["key"] =           "H_K_74",
+         ["value"] =           "K",
+         ["seal"] =           "Red",
+         ["enhancement"] =           "Steel",
+         ["name"] =           "K of Hearts",
+         ["edition"] =           "Polychrome"
+        },
+       ["H_K_61"] =         {
+         ["suit"] =           "Hearts",
+         ["enhancementKey"] =           "m_steel",
+         ["editionKey"] =           "polychrome",
+         ["uuid"] =           "38fef08a-877e-4f7b-a44e-15c452cb9699",
+         ["pos"] =           {
+           ["y"] =             1,
+           ["x"] =             0
+          },
+         ["key"] =           "H_K_61",
+         ["value"] =           "K",
+         ["seal"] =           "Red",
+         ["enhancement"] =           "Steel",
+         ["name"] =           "K of Hearts",
+         ["edition"] =           "Polychrome"
+        },
+       ["D_K_71"] =         {
+         ["suit"] =           "Diamonds",
+         ["enhancementKey"] =           "m_steel",
+         ["editionKey"] =           "polychrome",
+         ["uuid"] =           "d8c5ab4d-4ae6-4d37-84c6-3c8eaec05f02",
+         ["pos"] =           {
+           ["y"] =             1,
+           ["x"] =             0
+          },
+         ["key"] =           "D_K_71",
+         ["value"] =           "K",
+         ["seal"] =           "Red",
+         ["enhancement"] =           "Steel",
+         ["name"] =           "K of Diamonds",
+         ["edition"] =           "Polychrome"
+        },
+       ["S_K_60"] =         {
+         ["suit"] =           "Spades",
+         ["enhancementKey"] =           "m_steel",
+         ["editionKey"] =           "polychrome",
+         ["uuid"] =           "ed3f5420-1086-4591-9c10-a24fc3cd5f80",
+         ["pos"] =           {
+           ["y"] =             1,
+           ["x"] =             0
+          },
+         ["key"] =           "S_K_60",
+         ["value"] =           "K",
+         ["seal"] =           "Red",
+         ["enhancement"] =           "Steel",
+         ["name"] =           "K of Spades",
+         ["edition"] =           "Polychrome"
+        },
+       ["C_K_55"] =         {
+         ["suit"] =           "Clubs",
+         ["enhancementKey"] =           "m_steel",
+         ["editionKey"] =           "polychrome",
+         ["uuid"] =           "7b911155-b57a-4d05-b768-459b64303676",
+         ["pos"] =           {
+           ["y"] =             1,
+           ["x"] =             0
+          },
+         ["key"] =           "C_K_55",
+         ["value"] =           "K",
+         ["seal"] =           "Red",
+         ["enhancement"] =           "Steel",
+         ["name"] =           "K of Clubs",
+         ["edition"] =           "Polychrome"
+        },
+       ["C_K_60"] =         {
+         ["suit"] =           "Clubs",
+         ["enhancementKey"] =           "m_steel",
+         ["editionKey"] =           "polychrome",
+         ["uuid"] =           "2a521a76-18c0-40a9-a273-8171eedff621",
+         ["pos"] =           {
+           ["y"] =             1,
+           ["x"] =             0
+          },
+         ["key"] =           "C_K_60",
+         ["value"] =           "K",
+         ["seal"] =           "Red",
+         ["enhancement"] =           "Steel",
+         ["name"] =           "K of Clubs",
+         ["edition"] =           "Polychrome"
+        },
+       ["C_K_72"] =         {
+         ["suit"] =           "Clubs",
+         ["enhancementKey"] =           "m_steel",
+         ["editionKey"] =           "polychrome",
+         ["uuid"] =           "22727fe6-445e-4bf4-9a73-0d79bf4792ed",
+         ["pos"] =           {
+           ["y"] =             1,
+           ["x"] =             0
+          },
+         ["key"] =           "C_K_72",
+         ["value"] =           "K",
+         ["seal"] =           "Red",
+         ["enhancement"] =           "Steel",
+         ["name"] =           "K of Clubs",
+         ["edition"] =           "Polychrome"
+        },
+       ["S_K_57"] =         {
+         ["suit"] =           "Spades",
+         ["enhancementKey"] =           "m_steel",
+         ["editionKey"] =           "polychrome",
+         ["uuid"] =           "ce549a46-55b9-4c20-890a-2a55ab19757d",
+         ["pos"] =           {
+           ["y"] =             1,
+           ["x"] =             0
+          },
+         ["key"] =           "S_K_57",
+         ["value"] =           "K",
+         ["seal"] =           "Red",
+         ["enhancement"] =           "Steel",
+         ["name"] =           "K of Spades",
+         ["edition"] =           "Polychrome"
+        },
+       ["D_K_54"] =         {
+         ["suit"] =           "Diamonds",
+         ["enhancementKey"] =           "m_steel",
+         ["editionKey"] =           "polychrome",
+         ["uuid"] =           "58d354af-af9c-4c5a-a36a-508b5fc07d4d",
+         ["pos"] =           {
+           ["y"] =             1,
+           ["x"] =             0
+          },
+         ["key"] =           "D_K_54",
+         ["value"] =           "K",
+         ["seal"] =           "Red",
+         ["enhancement"] =           "Steel",
+         ["name"] =           "K of Diamonds",
+         ["edition"] =           "Polychrome"
+        },
+       ["S_K_56"] =         {
+         ["suit"] =           "Spades",
+         ["enhancementKey"] =           "m_steel",
+         ["editionKey"] =           "polychrome",
+         ["uuid"] =           "a98565bd-7b8f-4932-802e-adc3e6561050",
+         ["pos"] =           {
+           ["y"] =             1,
+           ["x"] =             0
+          },
+         ["key"] =           "S_K_56",
+         ["value"] =           "K",
+         ["seal"] =           "Red",
+         ["enhancement"] =           "Steel",
+         ["name"] =           "K of Spades",
+         ["edition"] =           "Polychrome"
+        },
+       ["C_K_54"] =         {
+         ["suit"] =           "Clubs",
+         ["enhancementKey"] =           "m_steel",
+         ["editionKey"] =           "polychrome",
+         ["uuid"] =           "8ed544eb-d50c-46ff-9167-1a252481c9bf",
+         ["pos"] =           {
+           ["y"] =             1,
+           ["x"] =             0
+          },
+         ["key"] =           "C_K_54",
+         ["value"] =           "K",
+         ["seal"] =           "Red",
+         ["enhancement"] =           "Steel",
+         ["name"] =           "K of Clubs",
+         ["edition"] =           "Polychrome"
+        },
+       ["D_K_51"] =         {
+         ["suit"] =           "Diamonds",
+         ["enhancementKey"] =           "m_steel",
+         ["editionKey"] =           "polychrome",
+         ["uuid"] =           "4ca2644b-126d-4f0b-966f-7726ac646b78",
+         ["pos"] =           {
+           ["y"] =             1,
+           ["x"] =             0
+          },
+         ["key"] =           "D_K_51",
+         ["value"] =           "K",
+         ["seal"] =           "Red",
+         ["enhancement"] =           "Steel",
+         ["name"] =           "K of Diamonds",
+         ["edition"] =           "Polychrome"
+        },
+       ["H_K_53"] =         {
+         ["suit"] =           "Hearts",
+         ["enhancementKey"] =           "m_steel",
+         ["editionKey"] =           "polychrome",
+         ["uuid"] =           "66a39a13-e4aa-459e-8b80-6cb49c878c0c",
+         ["pos"] =           {
+           ["y"] =             1,
+           ["x"] =             0
+          },
+         ["key"] =           "H_K_53",
+         ["value"] =           "K",
+         ["seal"] =           "Red",
+         ["enhancement"] =           "Steel",
+         ["name"] =           "K of Hearts",
+         ["edition"] =           "Polychrome"
+        },
+       ["S_K_53"] =         {
+         ["suit"] =           "Spades",
+         ["enhancementKey"] =           "m_steel",
+         ["editionKey"] =           "polychrome",
+         ["uuid"] =           "517224b5-769a-4e14-a20e-560b871494c7",
+         ["pos"] =           {
+           ["y"] =             1,
+           ["x"] =             0
+          },
+         ["key"] =           "S_K_53",
+         ["value"] =           "K",
+         ["seal"] =           "Red",
+         ["enhancement"] =           "Steel",
+         ["name"] =           "K of Spades",
+         ["edition"] =           "Polychrome"
+        },
+       ["S_K_76"] =         {
+         ["suit"] =           "Spades",
+         ["enhancementKey"] =           "m_steel",
+         ["editionKey"] =           "polychrome",
+         ["uuid"] =           "22a88456-e2eb-4414-8dab-fa08b898dc72",
+         ["pos"] =           {
+           ["y"] =             1,
+           ["x"] =             0
+          },
+         ["key"] =           "S_K_76",
+         ["value"] =           "K",
+         ["seal"] =           "Red",
+         ["enhancement"] =           "Steel",
+         ["name"] =           "K of Spades",
+         ["edition"] =           "Polychrome"
+        },
+       ["S_K_52"] =         {
+         ["suit"] =           "Spades",
+         ["enhancementKey"] =           "m_steel",
+         ["editionKey"] =           "polychrome",
+         ["uuid"] =           "b17e75f2-a303-472a-bff8-8c8cc174c442",
+         ["pos"] =           {
+           ["y"] =             1,
+           ["x"] =             0
+          },
+         ["key"] =           "S_K_52",
+         ["value"] =           "K",
+         ["seal"] =           "Red",
+         ["enhancement"] =           "Steel",
+         ["name"] =           "K of Spades",
+         ["edition"] =           "Polychrome"
+        },
+       ["D_K_52"] =         {
+         ["suit"] =           "Diamonds",
+         ["enhancementKey"] =           "m_steel",
+         ["editionKey"] =           "polychrome",
+         ["uuid"] =           "1229466a-36e6-471f-9487-b9bf54ba48e4",
+         ["pos"] =           {
+           ["y"] =             1,
+           ["x"] =             0
+          },
+         ["key"] =           "D_K_52",
+         ["value"] =           "K",
+         ["seal"] =           "Red",
+         ["enhancement"] =           "Steel",
+         ["name"] =           "K of Diamonds",
+         ["edition"] =           "Polychrome"
+        },
+       ["H_K_51"] =         {
+         ["suit"] =           "Hearts",
+         ["enhancementKey"] =           "m_steel",
+         ["editionKey"] =           "polychrome",
+         ["uuid"] =           "326ac1b4-d8c9-49da-a8a7-9e2dfb7e7026",
+         ["pos"] =           {
+           ["y"] =             1,
+           ["x"] =             0
+          },
+         ["key"] =           "H_K_51",
+         ["value"] =           "K",
+         ["seal"] =           "Red",
+         ["enhancement"] =           "Steel",
+         ["name"] =           "K of Hearts",
+         ["edition"] =           "Polychrome"
+        },
+       ["H_K_55"] =         {
+         ["suit"] =           "Hearts",
+         ["enhancementKey"] =           "m_steel",
+         ["editionKey"] =           "polychrome",
+         ["uuid"] =           "ab63e163-1219-45b4-a526-4d57c3182ef8",
+         ["pos"] =           {
+           ["y"] =             1,
+           ["x"] =             0
+          },
+         ["key"] =           "H_K_55",
+         ["value"] =           "K",
+         ["seal"] =           "Red",
+         ["enhancement"] =           "Steel",
+         ["name"] =           "K of Hearts",
+         ["edition"] =           "Polychrome"
+        },
+       ["D_K_4"] =         {
+         ["suit"] =           "Diamonds",
+         ["enhancementKey"] =           "m_steel",
+         ["editionKey"] =           "polychrome",
+         ["uuid"] =           "3a735fa1-6249-4b31-8186-f816db96e15b",
+         ["pos"] =           {
+           ["y"] =             1,
+           ["x"] =             0
+          },
+         ["key"] =           "D_K_4",
+         ["value"] =           "K",
+         ["seal"] =           "Red",
+         ["enhancement"] =           "Steel",
+         ["name"] =           "K of Diamonds",
+         ["edition"] =           "Polychrome"
+        },
+       ["H_K_48"] =         {
+         ["suit"] =           "Hearts",
+         ["enhancementKey"] =           "m_steel",
+         ["editionKey"] =           "polychrome",
+         ["uuid"] =           "dd953fc3-e979-459e-92b1-1a20f79adc7e",
+         ["pos"] =           {
+           ["y"] =             1,
+           ["x"] =             0
+          },
+         ["key"] =           "H_K_48",
+         ["value"] =           "K",
+         ["seal"] =           "Red",
+         ["enhancement"] =           "Steel",
+         ["name"] =           "K of Hearts",
+         ["edition"] =           "Polychrome"
+        },
+       ["D_K_1"] =         {
+         ["suit"] =           "Diamonds",
+         ["enhancementKey"] =           "m_steel",
+         ["editionKey"] =           "polychrome",
+         ["uuid"] =           "c336ef4e-3d8a-4a16-b5ca-ac3a2cdbeada",
+         ["pos"] =           {
+           ["y"] =             1,
+           ["x"] =             0
+          },
+         ["key"] =           "D_K_1",
+         ["value"] =           "K",
+         ["seal"] =           "Red",
+         ["enhancement"] =           "Steel",
+         ["name"] =           "K of Diamonds",
+         ["edition"] =           "Polychrome"
+        },
+       ["S_K_47"] =         {
+         ["suit"] =           "Spades",
+         ["enhancementKey"] =           "m_steel",
+         ["editionKey"] =           "polychrome",
+         ["uuid"] =           "1aaeea97-6a99-481b-8da9-eba1a387934b",
+         ["pos"] =           {
+           ["y"] =             1,
+           ["x"] =             0
+          },
+         ["key"] =           "S_K_47",
+         ["value"] =           "K",
+         ["seal"] =           "Red",
+         ["enhancement"] =           "Steel",
+         ["name"] =           "K of Spades",
+         ["edition"] =           "Polychrome"
+        },
+       ["S_K_8"] =         {
+         ["suit"] =           "Spades",
+         ["enhancementKey"] =           "m_steel",
+         ["editionKey"] =           "polychrome",
+         ["uuid"] =           "dffaf964-cffd-4a14-bf08-a42f093f60e2",
+         ["pos"] =           {
+           ["y"] =             1,
+           ["x"] =             0
+          },
+         ["key"] =           "S_K_8",
+         ["value"] =           "K",
+         ["seal"] =           "Red",
+         ["enhancement"] =           "Steel",
+         ["name"] =           "K of Spades",
+         ["edition"] =           "Polychrome"
+        },
+       ["S_K_10"] =         {
+         ["suit"] =           "Spades",
+         ["enhancementKey"] =           "m_steel",
+         ["editionKey"] =           "polychrome",
+         ["uuid"] =           "7f8c24ac-f186-455c-820a-611b67beecfe",
+         ["pos"] =           {
+           ["y"] =             1,
+           ["x"] =             0
+          },
+         ["key"] =           "S_K_10",
+         ["value"] =           "K",
+         ["seal"] =           "Red",
+         ["enhancement"] =           "Steel",
+         ["name"] =           "K of Spades",
+         ["edition"] =           "Polychrome"
+        },
+       ["S_K_17"] =         {
+         ["suit"] =           "Spades",
+         ["enhancementKey"] =           "m_steel",
+         ["editionKey"] =           "polychrome",
+         ["uuid"] =           "598567b2-9ff2-49bb-a79f-ff1550c921f7",
+         ["pos"] =           {
+           ["y"] =             1,
+           ["x"] =             0
+          },
+         ["key"] =           "S_K_17",
+         ["value"] =           "K",
+         ["seal"] =           "Red",
+         ["enhancement"] =           "Steel",
+         ["name"] =           "K of Spades",
+         ["edition"] =           "Polychrome"
+        },
+       ["C_K_36"] =         {
+         ["suit"] =           "Clubs",
+         ["enhancementKey"] =           "m_steel",
+         ["editionKey"] =           "polychrome",
+         ["uuid"] =           "dac8ece4-1eca-4247-baee-56727ad2ee83",
+         ["pos"] =           {
+           ["y"] =             1,
+           ["x"] =             0
+          },
+         ["key"] =           "C_K_36",
+         ["value"] =           "K",
+         ["seal"] =           "Red",
+         ["enhancement"] =           "Steel",
+         ["name"] =           "K of Clubs",
+         ["edition"] =           "Polychrome"
+        },
+       ["D_K"] =         {
+         ["suit"] =           "Diamonds",
+         ["enhancementKey"] =           "m_steel",
+         ["editionKey"] =           "polychrome",
+         ["uuid"] =           "cf1a14ca-ab26-4377-be86-bf2da8aa12cd",
+         ["pos"] =           {
+           ["y"] =             1,
+           ["x"] =             0
+          },
+         ["key"] =           "D_K",
+         ["value"] =           "K",
+         ["seal"] =           "Red",
+         ["enhancement"] =           "Steel",
+         ["name"] =           "K of Diamonds",
+         ["edition"] =           "Polychrome"
+        },
+       ["H_K_4"] =         {
+         ["suit"] =           "Hearts",
+         ["enhancementKey"] =           "m_steel",
+         ["editionKey"] =           "polychrome",
+         ["uuid"] =           "7ba18a9b-16fb-4e85-b133-3eae95fc0bc6",
+         ["pos"] =           {
+           ["y"] =             1,
+           ["x"] =             0
+          },
+         ["key"] =           "H_K_4",
+         ["value"] =           "K",
+         ["seal"] =           "Red",
+         ["enhancement"] =           "Steel",
+         ["name"] =           "K of Hearts",
+         ["edition"] =           "Polychrome"
+        },
+       ["S_K_19"] =         {
+         ["suit"] =           "Spades",
+         ["enhancementKey"] =           "m_steel",
+         ["editionKey"] =           "polychrome",
+         ["uuid"] =           "d976b878-816b-4a37-ae0f-cfd3972538e1",
+         ["pos"] =           {
+           ["y"] =             1,
+           ["x"] =             0
+          },
+         ["key"] =           "S_K_19",
+         ["value"] =           "K",
+         ["seal"] =           "Red",
+         ["enhancement"] =           "Steel",
+         ["name"] =           "K of Spades",
+         ["edition"] =           "Polychrome"
+        },
+       ["H_K_25"] =         {
+         ["suit"] =           "Hearts",
+         ["enhancementKey"] =           "m_steel",
+         ["editionKey"] =           "polychrome",
+         ["uuid"] =           "57a4dbc2-cabe-4f21-afe8-d39d0162e3c2",
+         ["pos"] =           {
+           ["y"] =             1,
+           ["x"] =             0
+          },
+         ["key"] =           "H_K_25",
+         ["value"] =           "K",
+         ["seal"] =           "Red",
+         ["enhancement"] =           "Steel",
+         ["name"] =           "K of Hearts",
+         ["edition"] =           "Polychrome"
+        },
+       ["C_K_10"] =         {
+         ["suit"] =           "Clubs",
+         ["enhancementKey"] =           "m_steel",
+         ["editionKey"] =           "polychrome",
+         ["uuid"] =           "07f8e246-59bc-4775-b157-5f0bf1f695ca",
+         ["pos"] =           {
+           ["y"] =             1,
+           ["x"] =             0
+          },
+         ["key"] =           "C_K_10",
+         ["value"] =           "K",
+         ["seal"] =           "Red",
+         ["enhancement"] =           "Steel",
+         ["name"] =           "K of Clubs",
+         ["edition"] =           "Polychrome"
+        },
+       ["S_K_28"] =         {
+         ["suit"] =           "Spades",
+         ["enhancementKey"] =           "m_steel",
+         ["editionKey"] =           "polychrome",
+         ["uuid"] =           "ff1d177a-9600-4649-8237-dae9b3a7e3e4",
+         ["pos"] =           {
+           ["y"] =             1,
+           ["x"] =             0
+          },
+         ["key"] =           "S_K_28",
+         ["value"] =           "K",
+         ["seal"] =           "Red",
+         ["enhancement"] =           "Steel",
+         ["name"] =           "K of Spades",
+         ["edition"] =           "Polychrome"
+        },
+       ["S_K_9"] =         {
+         ["suit"] =           "Spades",
+         ["enhancementKey"] =           "m_steel",
+         ["editionKey"] =           "polychrome",
+         ["uuid"] =           "6953ae45-ac37-4c00-b197-8344740484f7",
+         ["pos"] =           {
+           ["y"] =             1,
+           ["x"] =             0
+          },
+         ["key"] =           "S_K_9",
+         ["value"] =           "K",
+         ["seal"] =           "Red",
+         ["enhancement"] =           "Steel",
+         ["name"] =           "K of Spades",
+         ["edition"] =           "Polychrome"
+        },
+       ["S_K_42"] =         {
+         ["suit"] =           "Spades",
+         ["enhancementKey"] =           "m_steel",
+         ["editionKey"] =           "polychrome",
+         ["uuid"] =           "b15f1021-384c-47d7-bfb1-f75b42f959b0",
+         ["pos"] =           {
+           ["y"] =             1,
+           ["x"] =             0
+          },
+         ["key"] =           "S_K_42",
+         ["value"] =           "K",
+         ["seal"] =           "Red",
+         ["enhancement"] =           "Steel",
+         ["name"] =           "K of Spades",
+         ["edition"] =           "Polychrome"
+        },
+       ["S_K_18"] =         {
+         ["suit"] =           "Spades",
+         ["enhancementKey"] =           "m_steel",
+         ["editionKey"] =           "polychrome",
+         ["uuid"] =           "bad7f557-e504-4bad-825e-bcec8138599c",
+         ["pos"] =           {
+           ["y"] =             1,
+           ["x"] =             0
+          },
+         ["key"] =           "S_K_18",
+         ["value"] =           "K",
+         ["seal"] =           "Red",
+         ["enhancement"] =           "Steel",
+         ["name"] =           "K of Spades",
+         ["edition"] =           "Polychrome"
+        },
+       ["C_K_24"] =         {
+         ["suit"] =           "Clubs",
+         ["enhancementKey"] =           "m_steel",
+         ["editionKey"] =           "polychrome",
+         ["uuid"] =           "ec4a8bb8-7a12-4bc2-873c-6bf9a8556243",
+         ["pos"] =           {
+           ["y"] =             1,
+           ["x"] =             0
+          },
+         ["key"] =           "C_K_24",
+         ["value"] =           "K",
+         ["seal"] =           "Red",
+         ["enhancement"] =           "Steel",
+         ["name"] =           "K of Clubs",
+         ["edition"] =           "Polychrome"
+        },
+       ["D_K_39"] =         {
+         ["suit"] =           "Diamonds",
+         ["enhancementKey"] =           "m_steel",
+         ["editionKey"] =           "polychrome",
+         ["uuid"] =           "8a60b9c7-759c-4e29-bc99-dc1f27996806",
+         ["pos"] =           {
+           ["y"] =             1,
+           ["x"] =             0
+          },
+         ["key"] =           "D_K_39",
+         ["value"] =           "K",
+         ["seal"] =           "Red",
+         ["enhancement"] =           "Steel",
+         ["name"] =           "K of Diamonds",
+         ["edition"] =           "Polychrome"
+        },
+       ["H_K_34"] =         {
+         ["suit"] =           "Hearts",
+         ["enhancementKey"] =           "m_steel",
+         ["editionKey"] =           "polychrome",
+         ["uuid"] =           "54d36b1b-4ec7-4947-b1ba-7bb229de18dc",
+         ["pos"] =           {
+           ["y"] =             1,
+           ["x"] =             0
+          },
+         ["key"] =           "H_K_34",
+         ["value"] =           "K",
+         ["seal"] =           "Red",
+         ["enhancement"] =           "Steel",
+         ["name"] =           "K of Hearts",
+         ["edition"] =           "Polychrome"
+        },
+       ["D_K_6"] =         {
+         ["suit"] =           "Diamonds",
+         ["enhancementKey"] =           "m_steel",
+         ["editionKey"] =           "polychrome",
+         ["uuid"] =           "ac75168c-bb4c-421b-9f24-99f211521dd4",
+         ["pos"] =           {
+           ["y"] =             1,
+           ["x"] =             0
+          },
+         ["key"] =           "D_K_6",
+         ["value"] =           "K",
+         ["seal"] =           "Red",
+         ["enhancement"] =           "Steel",
+         ["name"] =           "K of Diamonds",
+         ["edition"] =           "Polychrome"
+        },
+       ["S_K_11"] =         {
+         ["suit"] =           "Spades",
+         ["enhancementKey"] =           "m_steel",
+         ["editionKey"] =           "polychrome",
+         ["uuid"] =           "dd202eb7-9400-421d-ac05-365d53293855",
+         ["pos"] =           {
+           ["y"] =             1,
+           ["x"] =             0
+          },
+         ["key"] =           "S_K_11",
+         ["value"] =           "K",
+         ["seal"] =           "Red",
+         ["enhancement"] =           "Steel",
+         ["name"] =           "K of Spades",
+         ["edition"] =           "Polychrome"
+        },
+       ["D_K_3"] =         {
+         ["suit"] =           "Diamonds",
+         ["enhancementKey"] =           "m_steel",
+         ["editionKey"] =           "polychrome",
+         ["uuid"] =           "1a01f3e9-4114-4d88-b9cf-3725a4e5567e",
+         ["pos"] =           {
+           ["y"] =             1,
+           ["x"] =             0
+          },
+         ["key"] =           "D_K_3",
+         ["value"] =           "K",
+         ["seal"] =           "Red",
+         ["enhancement"] =           "Steel",
+         ["name"] =           "K of Diamonds",
+         ["edition"] =           "Polychrome"
+        },
+       ["D_K_29"] =         {
+         ["suit"] =           "Diamonds",
+         ["enhancementKey"] =           "m_steel",
+         ["editionKey"] =           "polychrome",
+         ["uuid"] =           "cfe676f4-e49c-4be9-aca9-f37fb34e17a8",
+         ["pos"] =           {
+           ["y"] =             1,
+           ["x"] =             0
+          },
+         ["key"] =           "D_K_29",
+         ["value"] =           "K",
+         ["seal"] =           "Red",
+         ["enhancement"] =           "Steel",
+         ["name"] =           "K of Diamonds",
+         ["edition"] =           "Polychrome"
+        },
+       ["D_K_75"] =         {
+         ["suit"] =           "Diamonds",
+         ["enhancementKey"] =           "m_steel",
+         ["editionKey"] =           "polychrome",
+         ["uuid"] =           "16e04f3a-fb74-4c7c-acb2-72b190fbd6dc",
+         ["pos"] =           {
+           ["y"] =             1,
+           ["x"] =             0
+          },
+         ["key"] =           "D_K_75",
+         ["value"] =           "K",
+         ["seal"] =           "Red",
+         ["enhancement"] =           "Steel",
+         ["name"] =           "K of Diamonds",
+         ["edition"] =           "Polychrome"
+        },
+       ["C_K_9"] =         {
+         ["suit"] =           "Clubs",
+         ["enhancementKey"] =           "m_steel",
+         ["editionKey"] =           "polychrome",
+         ["uuid"] =           "3f22ca73-c5ba-4e5f-9a6b-4040b91996b3",
+         ["pos"] =           {
+           ["y"] =             1,
+           ["x"] =             0
+          },
+         ["key"] =           "C_K_9",
+         ["value"] =           "K",
+         ["seal"] =           "Red",
+         ["enhancement"] =           "Steel",
+         ["name"] =           "K of Clubs",
+         ["edition"] =           "Polychrome"
+        },
+       ["S_K_25"] =         {
+         ["suit"] =           "Spades",
+         ["enhancementKey"] =           "m_steel",
+         ["editionKey"] =           "polychrome",
+         ["uuid"] =           "8970e0a3-3ddd-47c9-aa09-6906ee6affb1",
+         ["pos"] =           {
+           ["y"] =             1,
+           ["x"] =             0
+          },
+         ["key"] =           "S_K_25",
+         ["value"] =           "K",
+         ["seal"] =           "Red",
+         ["enhancement"] =           "Steel",
+         ["name"] =           "K of Spades",
+         ["edition"] =           "Polychrome"
+        },
+       ["H_K_29"] =         {
+         ["suit"] =           "Hearts",
+         ["enhancementKey"] =           "m_steel",
+         ["editionKey"] =           "polychrome",
+         ["uuid"] =           "54ed08d0-fa42-4da0-ac06-2d2c94d277b8",
+         ["pos"] =           {
+           ["y"] =             1,
+           ["x"] =             0
+          },
+         ["key"] =           "H_K_29",
+         ["value"] =           "K",
+         ["seal"] =           "Red",
+         ["enhancement"] =           "Steel",
+         ["name"] =           "K of Hearts",
+         ["edition"] =           "Polychrome"
+        },
+       ["C_K_76"] =         {
+         ["suit"] =           "Clubs",
+         ["enhancementKey"] =           "m_steel",
+         ["editionKey"] =           "polychrome",
+         ["uuid"] =           "a5fc6588-e198-4268-9a4c-53c979a1467f",
+         ["pos"] =           {
+           ["y"] =             1,
+           ["x"] =             0
+          },
+         ["key"] =           "C_K_76",
+         ["value"] =           "K",
+         ["seal"] =           "Red",
+         ["enhancement"] =           "Steel",
+         ["name"] =           "K of Clubs",
+         ["edition"] =           "Polychrome"
+        },
+       ["S_K_43"] =         {
+         ["suit"] =           "Spades",
+         ["enhancementKey"] =           "m_steel",
+         ["editionKey"] =           "polychrome",
+         ["uuid"] =           "33c0916c-a156-4f5b-b9d4-9cad30f83795",
+         ["pos"] =           {
+           ["y"] =             1,
+           ["x"] =             0
+          },
+         ["key"] =           "S_K_43",
+         ["value"] =           "K",
+         ["seal"] =           "Red",
+         ["enhancement"] =           "Steel",
+         ["name"] =           "K of Spades",
+         ["edition"] =           "Polychrome"
+        },
+       ["S_K_29"] =         {
+         ["suit"] =           "Spades",
+         ["enhancementKey"] =           "m_steel",
+         ["editionKey"] =           "polychrome",
+         ["uuid"] =           "00b5f532-f108-410e-8560-b4380ff83778",
+         ["pos"] =           {
+           ["y"] =             1,
+           ["x"] =             0
+          },
+         ["key"] =           "S_K_29",
+         ["value"] =           "K",
+         ["seal"] =           "Red",
+         ["enhancement"] =           "Steel",
+         ["name"] =           "K of Spades",
+         ["edition"] =           "Polychrome"
+        },
+       ["H_K_46"] =         {
+         ["suit"] =           "Hearts",
+         ["enhancementKey"] =           "m_steel",
+         ["editionKey"] =           "polychrome",
+         ["uuid"] =           "355d5ca0-0a5a-43d7-81e0-2326e84ec556",
+         ["pos"] =           {
+           ["y"] =             1,
+           ["x"] =             0
+          },
+         ["key"] =           "H_K_46",
+         ["value"] =           "K",
+         ["seal"] =           "Red",
+         ["enhancement"] =           "Steel",
+         ["name"] =           "K of Hearts",
+         ["edition"] =           "Polychrome"
+        },
+       ["S_K_46"] =         {
+         ["suit"] =           "Spades",
+         ["enhancementKey"] =           "m_steel",
+         ["editionKey"] =           "polychrome",
+         ["uuid"] =           "8b6bc74a-cb3b-4cc4-8c60-cb59da7f90e8",
+         ["pos"] =           {
+           ["y"] =             1,
+           ["x"] =             0
+          },
+         ["key"] =           "S_K_46",
+         ["value"] =           "K",
+         ["seal"] =           "Red",
+         ["enhancement"] =           "Steel",
+         ["name"] =           "K of Spades",
+         ["edition"] =           "Polychrome"
+        },
+       ["C_K_46"] =         {
+         ["suit"] =           "Clubs",
+         ["enhancementKey"] =           "m_steel",
+         ["editionKey"] =           "polychrome",
+         ["uuid"] =           "8dd7ec94-18ef-4482-9d7d-0ef10a51a80c",
+         ["pos"] =           {
+           ["y"] =             1,
+           ["x"] =             0
+          },
+         ["key"] =           "C_K_46",
+         ["value"] =           "K",
+         ["seal"] =           "Red",
+         ["enhancement"] =           "Steel",
+         ["name"] =           "K of Clubs",
+         ["edition"] =           "Polychrome"
+        },
+       ["D_K_8"] =         {
+         ["suit"] =           "Diamonds",
+         ["enhancementKey"] =           "m_steel",
+         ["editionKey"] =           "polychrome",
+         ["uuid"] =           "60b2e850-171e-4ea7-b29d-43dda1e69145",
+         ["pos"] =           {
+           ["y"] =             1,
+           ["x"] =             0
+          },
+         ["key"] =           "D_K_8",
+         ["value"] =           "K",
+         ["seal"] =           "Red",
+         ["enhancement"] =           "Steel",
+         ["name"] =           "K of Diamonds",
+         ["edition"] =           "Polychrome"
+        }
+      },
+     ["chance_to_disable_gold_money"] =       0,
+     ["eternal_rate"] =       30,
+     ["double_tag"] =       false,
+     ["ante_scaling"] =       1,
+     ["allow_black_hole"] =       false,
+     ["chance_purple_seal_rolls_spectral"] =       0,
+     ["planet_cards_in_spectral"] =       false,
+     ["edition_rate"] =       1,
+     ["random_polychrome_cards"] =       0,
+     ["never_telescoping"] =       false,
+     ["boss_tag_percent"] =       0,
+     ["rental_rate"] =       30,
+     ["allow_duplicate_jokers"] =       false,
+     ["one_free_booster_in_shop"] =       false,
+     ["randomize_suits"] =       false,
+     ["rawDescription"] =       "skip the first two blinds - milmax",
+     ["random_starting_jokers"] =       0,
+     ["edition"] =       false,
+     ["centerPosition"] =       17,
+     ["skip_blind_disabled_chance_small_blind"] =       0,
+     ["tag_on_win_config"] =       {
+       ["mega_standard_tag_percent"] =         {
+         ["key"] =           "tag_standard",
+         ["chance"] =           0
+        },
+       ["voucher_tag_percent"] =         {
+         ["key"] =           "tag_voucher",
+         ["chance"] =           0
+        },
+       ["economy_tag_percent"] =         {
+         ["key"] =           "tag_economy",
+         ["chance"] =           0
+        },
+       ["boss_tag_percent"] =         {
+         ["key"] =           "tag_boss",
+         ["chance"] =           0
+        },
+       ["rare_tag_percent"] =         {
+         ["key"] =           "tag_rare",
+         ["chance"] =           0
+        },
+       ["double_tag_percent"] =         {
+         ["key"] =           "tag_double",
+         ["chance"] =           0
+        },
+       ["meteor_tag_percent"] =         {
+         ["key"] =           "tag_meteor",
+         ["chance"] =           0
+        },
+       ["investment_tag_percent"] =         {
+         ["key"] =           "tag_investment",
+         ["chance"] =           0
+        },
+       ["coupon_tag_percent"] =         {
+         ["key"] =           "tag_coupon",
+         ["chance"] =           0
+        },
+       ["negative_tag_percent"] =         {
+         ["key"] =           "tag_negative",
+         ["chance"] =           0
+        },
+       ["top_up_tag_percent"] =         {
+         ["key"] =           "tag_top_up",
+         ["chance"] =           0
+        },
+       ["orbital_tag_percent"] =         {
+         ["key"] =           "tag_orbital",
+         ["chance"] =           0
+        },
+       ["ethereal_tag_percent"] =         {
+         ["key"] =           "tag_ethereal",
+         ["chance"] =           0
+        },
+       ["garbage_tag_percent"] =         {
+         ["key"] =           "tag_garbage",
+         ["chance"] =           0
+        },
+       ["juggle_tag_percent"] =         {
+         ["key"] =           "tag_juggle",
+         ["chance"] =           0
+        },
+       ["d6_tag_percent"] =         {
+         ["key"] =           "tag_d_six",
+         ["chance"] =           0
+        },
+       ["foil_tag_percent"] =         {
+         ["key"] =           "tag_foil",
+         ["chance"] =           0
+        },
+       ["holographic_tag_percent"] =         {
+         ["key"] =           "tag_holo",
+         ["chance"] =           0
+        },
+       ["handy_tag_percent"] =         {
+         ["key"] =           "tag_handy",
+         ["chance"] =           0
+        },
+       ["buffoon_tag_percent"] =         {
+         ["key"] =           "tag_buffoon",
+         ["chance"] =           0
+        },
+       ["polychrome_tag_percent"] =         {
+         ["key"] =           "tag_polychrome",
+         ["chance"] =           0
+        },
+       ["uncommon_tag_percent"] =         {
+         ["key"] =           "tag_uncommon",
+         ["chance"] =           0
+        },
+       ["skip_tag_percent"] =         {
+         ["key"] =           "tag_skip",
+         ["chance"] =           0
+        },
+       ["charm_tag_percent"] =         {
+         ["key"] =           "tag_charm",
+         ["chance"] =           0
+        }
+      },
+     ["skip_blind_disabled_chance_any"] =       0,
+     ["random_gold_cards"] =       0,
+     ["spectral_seals_add_additional"] =       false,
+     ["blind_scaling"] =       1,
+     ["random_enhancement_cards"] =       0,
+     ["random_mult_cards"] =       0,
+     ["perishable_rate"] =       30,
+     ["always_telescoping"] =       false,
+     ["skip_tag_percent"] =       0,
+     ["extra_red_seal_repetitions"] =       0,
+     ["random_wild_cards"] =       0,
+     ["random_stone_cards"] =       0,
+     ["random_glass_cards"] =       0,
+     ["random_steel_cards"] =       0,
+     ["voucher_tag_percent"] =       0,
+     ["red_seal_silly_messages"] =       false,
+     ["death_targets_random_card"] =       false,
+     ["random_bonus_cards"] =       0,
+     ["random_edition_cards"] =       0,
+     ["random_foil_cards"] =       0,
+     ["chance_for_twenty_dollars_on_shop_skip"] =       0,
+     ["bannedBlindList"] =       {
+
+      },
+     ["random_holographic_cards"] =       0,
+     ["random_sell_value_increase"] =       0,
+     ["chance_to_increase_drawn_cards_rank"] =       0,
+     ["gain_dollars_when_skip_booster"] =       0,
+     ["chance_to_increase_discard_cards_rank"] =       0,
+     ["destroy_joker_on_broken_glass"] =       0,
+     ["mult_reduction_percent"] =       0,
+     ["chip_reduction_percent"] =       0,
+     ["full_price_consumables"] =       false,
+     ["extra_buffoon_pack_cards"] =       0,
+     ["chance_for_two_purple_tarots"] =       0,
+     ["full_price_jokers"] =       false,
+     ["standard_pack_enhancement_rate"] =       40,
+     ["mega_standard_tag_percent"] =       0,
+     ["bannedTarotList"] =       {
+
+      },
+     ["spectral_rate"] =       0,
+     ["uncommon_tag_percent"] =       0,
+     ["all_polychrome"] =       false,
+     ["make_stones_lucky"] =       0,
+     ["halved_probabilities"] =       false,
+     ["disable_mult_cards_chance"] =       0,
+     ["skip_shop_chance_any"] =       0,
+     ["doubled_probabilities"] =       false,
+     ["randomize_hands_discards"] =       false,
+     ["blue_seal_switch_trigger"] =       false,
+     ["one_random_voucher"] =       false,
+     ["randomly_enable_gameplay_settings"] =       false,
+     ["hand_size"] =       9991,
+     ["randomize_appearance_rates"] =       false,
+     ["polychrome_tag_percent"] =       0,
+     ["divide_probabilities"] =       1,
+     ["randomize_money_settings"] =       false,
+     ["all_mult"] =       false,
+     ["randomize_money_small"] =       false,
+     ["foil_tag_percent"] =       0,
+     ["consumable_slot"] =       0,
+     ["all_gold"] =       false,
+     ["ouija_cannot_change_hand_size"] =       false,
+     ["orbital_tag_percent"] =       0,
+     ["ethereal_tag_percent"] =       0,
+     ["no_aces"] =       false,
+     ["win_ante"] =       1,
+     ["inflation"] =       false,
+     ["flipped_cards"] =       false,
+     ["random_lucky_cards"] =       0,
+     ["negative_joker_money"] =       0,
+     ["buffoon_tag_percent"] =       0,
+     ["enable_rentals_in_shop"] =       false,
+     ["extra_hand_level_upgrades"] =       0,
+     ["planet_cards_in_arcana"] =       false,
+     ["minus_hand_size_per_X_dollar"] =       false,
+     ["double_tag_percent"] =       0,
+     ["all_bonus"] =       false,
+     ["balance_percent"] =       0,
+     ["randomize_ranks"] =       false,
+     ["negative_joker_for_broken_glass"] =       0,
+     ["uuid"] =       "aa1ca655-51c6-45d0-bdf8-cda87603fe34",
+     ["economy_tag_percent"] =       0,
+     ["wraith_cannot_set_money_to_zero"] =       false,
+     ["edition_count"] =       1,
+     ["customJokerList"] =       {
+               {
+         ["id"] =           "j_mime",
+         ["perishable"] =           false,
+         ["copies"] =           1,
+         ["rental"] =           false,
+         ["uuid"] =           "6a0143e3-54fd-4ba0-9b5f-276ec44c9861",
+         ["pinned"] =           false,
+         ["key"] =           "j_mime",
+         ["eternal"] =           false
+        },
+               {
+         ["id"] =           "j_baron",
+         ["perishable"] =           false,
+         ["copies"] =           1,
+         ["rental"] =           false,
+         ["uuid"] =           "d4e3e22b-7586-4c75-8b45-2e29fa5da45b",
+         ["pinned"] =           false,
+         ["key"] =           "j_baron",
+         ["eternal"] =           false
+        }
+      },
+     ["negative_fifty_dollars_allowed"] =       false,
+     ["all_foil"] =       false,
+     ["enhanced_dollars_per_round"] =       0,
+     ["multiply_probabilities"] =       1,
+     ["broken_glass_money"] =       0,
+     ["holographic_tag_percent"] =       0,
+     ["customVoucherList"] =       {
+
+      },
+     ["deck_back_index"] =       21,
+     ["debuff_played_cards"] =       false,
+     ["reroll_boosters"] =       false,
+     ["triple_mult_cards_chance"] =       0,
+     ["bannedBoosterList"] =       {
+
+      },
+     ["d6_tag_percent"] =       0,
+     ["chips_dollar_cap"] =       false,
+     ["make_sevens_lucky"] =       0,
+     ["all_lucky"] =       false,
+     ["all_stone"] =       false,
+     ["playing_card_rate"] =       0,
+     ["all_glass"] =       false,
+     ["all_wild"] =       false,
+     ["all_holo"] =       false,
+     ["standard_pack_seal_rate"] =       20,
+     ["extra_booster_pack_choices"] =       0,
+     ["planet_rate"] =       4,
+     ["tarot_rate"] =       4,
+     ["joker_rate"] =       20,
+     ["random_sell_value_decrease"] =       0,
+     ["skip_shop_chance_small_blind"] =       0,
+     ["negative_tag_percent"] =       0,
+     ["balance_chips"] =       false,
+     ["discount_percent"] =       0,
+     ["interest_cap"] =       25,
+     ["rare_tag_percent"] =       0,
+     ["one_free_card_in_shop"] =       false,
+     ["invert_back"] =       true,
+     ["skip_shop_chance_boss"] =       0,
+     ["chance_for_five_dollars_on_skip_disable"] =       0,
+     ["reroll_discount"] =       0,
+     ["replace_broken_glass_with_random_cards_chance"] =       0,
+     ["randomize_money_configurable"] =       0,
+     ["charm_tag_percent"] =       0,
+     ["joker_slot"] =       -3,
+     ["juggle_tag_percent"] =       0,
+     ["spectral_cards_in_celestial"] =       false,
+     ["random_starting_items"] =       false,
+     ["customPlanetList"] =       {
+
+      },
+     ["customDeck"] =       true,
+     ["enable_eternals_in_shop"] =       false,
+     ["allow_soul"] =       false,
+     ["bannedJokerList"] =       {
+
+      },
+     ["aces_are_faces"] =       false,
+     ["draw_to_hand_size"] =       "--",
+     ["extra_celestial_pack_cards"] =       0,
+     ["bannedSpectralList"] =       {
+
+      },
+     ["chance_to_disable_red_seal_retriggers"] =       0,
+     ["extra_standard_pack_cards"] =       0,
+     ["one_free_item_in_shop"] =       false,
+     ["interest_amount"] =       1,
+     ["chance_for_free_booster"] =       0,
+     ["purple_seal_switch_trigger"] =       false,
+     ["investment_tag_percent"] =       0,
+     ["extra_arcana_pack_cards"] =       0,
+     ["bannedPlanetList"] =       {
+
+      },
+     ["voucher_is_free"] =       false,
+     ["chance_to_triple_gold_money"] =       0,
+     ["top_up_tag_percent"] =       0,
+     ["handy_tag_percent"] =       0,
+     ["spectral_cards_cannot_destroy_jokers"] =       false,
+     ["extra_spectral_pack_cards"] =       0,
+     ["chance_for_fifteen_dollars_on_skip_disable"] =       0,
+     ["standard_pack_edition_rate"] =       2,
+     ["no_numbered_cards"] =       false,
+     ["blue_seal_always_most_played"] =       false,
+     ["tarot_cards_in_celestial"] =       false,
+     ["allow_legendary_jokers_everywhere"] =       false,
+     ["customTagList"] =       {
+
+      },
+     ["skip_shop_chance_big_blind"] =       0,
+     ["remove_faces"] =       false,
+     ["hands"] =       -3,
+     ["custom_cards_set"] =       true,
+     ["skip_blind_disabled_chance_big_blind"] =       0,
+     ["customSpectralList"] =       {
+
+      },
+     ["custom_jokers_set"] =       true,
+     ["garbage_tag_percent"] =       0
+    }
+  }
+}
